@@ -1,0 +1,12 @@
+D:\Programming\CODE\ExpertSystem\ExpertSystem\bin\Debug\net8.0\EFCore.deps.json
+D:\Programming\CODE\ExpertSystem\ExpertSystem\bin\Debug\net8.0\EFCore.dll
+D:\Programming\CODE\ExpertSystem\ExpertSystem\bin\Debug\net8.0\EFCore.pdb
+D:\Programming\CODE\ExpertSystem\ExpertSystem\obj\Debug\net8.0\EFCore.csproj.AssemblyReference.cache
+D:\Programming\CODE\ExpertSystem\ExpertSystem\obj\Debug\net8.0\EFCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CODE\ExpertSystem\ExpertSystem\obj\Debug\net8.0\EFCore.AssemblyInfoInputs.cache
+D:\Programming\CODE\ExpertSystem\ExpertSystem\obj\Debug\net8.0\EFCore.AssemblyInfo.cs
+D:\Programming\CODE\ExpertSystem\ExpertSystem\obj\Debug\net8.0\EFCore.csproj.CoreCompileInputs.cache
+D:\Programming\CODE\ExpertSystem\ExpertSystem\obj\Debug\net8.0\EFCore.dll
+D:\Programming\CODE\ExpertSystem\ExpertSystem\obj\Debug\net8.0\refint\EFCore.dll
+D:\Programming\CODE\ExpertSystem\ExpertSystem\obj\Debug\net8.0\EFCore.pdb
+D:\Programming\CODE\ExpertSystem\ExpertSystem\obj\Debug\net8.0\ref\EFCore.dll

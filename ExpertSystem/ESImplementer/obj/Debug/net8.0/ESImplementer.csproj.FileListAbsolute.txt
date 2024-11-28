@@ -1,0 +1,15 @@
+D:\Programming\CODE\ExpertSystem\ESImplementer\bin\Debug\net8.0\ESImplementer.deps.json
+D:\Programming\CODE\ExpertSystem\ESImplementer\bin\Debug\net8.0\ESImplementer.dll
+D:\Programming\CODE\ExpertSystem\ESImplementer\bin\Debug\net8.0\ESImplementer.pdb
+D:\Programming\CODE\ExpertSystem\ESImplementer\bin\Debug\net8.0\EFCore.dll
+D:\Programming\CODE\ExpertSystem\ESImplementer\bin\Debug\net8.0\EFCore.pdb
+D:\Programming\CODE\ExpertSystem\ESImplementer\obj\Debug\net8.0\ESImplementer.csproj.AssemblyReference.cache
+D:\Programming\CODE\ExpertSystem\ESImplementer\obj\Debug\net8.0\ESImplementer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CODE\ExpertSystem\ESImplementer\obj\Debug\net8.0\ESImplementer.AssemblyInfoInputs.cache
+D:\Programming\CODE\ExpertSystem\ESImplementer\obj\Debug\net8.0\ESImplementer.AssemblyInfo.cs
+D:\Programming\CODE\ExpertSystem\ESImplementer\obj\Debug\net8.0\ESImplementer.csproj.CoreCompileInputs.cache
+D:\Programming\CODE\ExpertSystem\ESImplementer\obj\Debug\net8.0\ESImplem.52536CC7.Up2Date
+D:\Programming\CODE\ExpertSystem\ESImplementer\obj\Debug\net8.0\ESImplementer.dll
+D:\Programming\CODE\ExpertSystem\ESImplementer\obj\Debug\net8.0\refint\ESImplementer.dll
+D:\Programming\CODE\ExpertSystem\ESImplementer\obj\Debug\net8.0\ESImplementer.pdb
+D:\Programming\CODE\ExpertSystem\ESImplementer\obj\Debug\net8.0\ref\ESImplementer.dll

@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\CODE\\ExpertSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4E5583-9F25-4CA2-BDBF-1CD92109A68D}|ExpertSystemWPF\\ExpertSystemWPF.csproj|d:\\programming\\code\\expertsystem\\expertsystemwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D4E5583-9F25-4CA2-BDBF-1CD92109A68D}|ExpertSystemWPF\\ExpertSystemWPF.csproj|solutionrelative:expertsystemwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4E5583-9F25-4CA2-BDBF-1CD92109A68D}|ExpertSystemWPF\\ExpertSystemWPF.csproj|d:\\programming\\code\\expertsystem\\expertsystemwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D4E5583-9F25-4CA2-BDBF-1CD92109A68D}|ExpertSystemWPF\\ExpertSystemWPF.csproj|solutionrelative:expertsystemwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75DE009-95B6-4B1E-AC69-3A139F34BB49}|ExpertSystem\\EFCore.csproj|d:\\programming\\code\\expertsystem\\expertsystem\\models\\knowledgemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75DE009-95B6-4B1E-AC69-3A139F34BB49}|ExpertSystem\\EFCore.csproj|solutionrelative:expertsystem\\models\\knowledgemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75DE009-95B6-4B1E-AC69-3A139F34BB49}|ExpertSystem\\EFCore.csproj|d:\\programming\\code\\expertsystem\\expertsystem\\models\\questionsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75DE009-95B6-4B1E-AC69-3A139F34BB49}|ExpertSystem\\EFCore.csproj|solutionrelative:expertsystem\\models\\questionsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75DE009-95B6-4B1E-AC69-3A139F34BB49}|ExpertSystem\\EFCore.csproj|d:\\programming\\code\\expertsystem\\expertsystem\\context\\configure\\knowledgeentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75DE009-95B6-4B1E-AC69-3A139F34BB49}|ExpertSystem\\EFCore.csproj|solutionrelative:expertsystem\\context\\configure\\knowledgeentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75DE009-95B6-4B1E-AC69-3A139F34BB49}|ExpertSystem\\EFCore.csproj|d:\\programming\\code\\expertsystem\\expertsystem\\context\\configure\\carsentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75DE009-95B6-4B1E-AC69-3A139F34BB49}|ExpertSystem\\EFCore.csproj|solutionrelative:expertsystem\\context\\configure\\carsentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75DE009-95B6-4B1E-AC69-3A139F34BB49}|ExpertSystem\\EFCore.csproj|d:\\programming\\code\\expertsystem\\expertsystem\\context\\configure\\questionsentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75DE009-95B6-4B1E-AC69-3A139F34BB49}|ExpertSystem\\EFCore.csproj|solutionrelative:expertsystem\\context\\configure\\questionsentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D28AD511-E9F3-47C1-BD62-3A6AB13F795F}|ESImplementer\\ESImplementer.csproj|d:\\programming\\code\\expertsystem\\esimplementer\\expertsystemforcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D28AD511-E9F3-47C1-BD62-3A6AB13F795F}|ESImplementer\\ESImplementer.csproj|solutionrelative:esimplementer\\expertsystemforcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75DE009-95B6-4B1E-AC69-3A139F34BB49}|ExpertSystem\\EFCore.csproj|d:\\programming\\code\\expertsystem\\expertsystem\\models\\carsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75DE009-95B6-4B1E-AC69-3A139F34BB49}|ExpertSystem\\EFCore.csproj|solutionrelative:expertsystem\\models\\carsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75DE009-95B6-4B1E-AC69-3A139F34BB49}|ExpertSystem\\EFCore.csproj|d:\\programming\\code\\expertsystem\\expertsystem\\repo\\questionsmodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75DE009-95B6-4B1E-AC69-3A139F34BB49}|ExpertSystem\\EFCore.csproj|solutionrelative:expertsystem\\repo\\questionsmodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75DE009-95B6-4B1E-AC69-3A139F34BB49}|ExpertSystem\\EFCore.csproj|d:\\programming\\code\\expertsystem\\expertsystem\\repo\\knowledgemodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75DE009-95B6-4B1E-AC69-3A139F34BB49}|ExpertSystem\\EFCore.csproj|solutionrelative:expertsystem\\repo\\knowledgemodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75DE009-95B6-4B1E-AC69-3A139F34BB49}|ExpertSystem\\EFCore.csproj|d:\\programming\\code\\expertsystem\\expertsystem\\repo\\carsmodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75DE009-95B6-4B1E-AC69-3A139F34BB49}|ExpertSystem\\EFCore.csproj|solutionrelative:expertsystem\\repo\\carsmodelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75DE009-95B6-4B1E-AC69-3A139F34BB49}|ExpertSystem\\EFCore.csproj|d:\\programming\\code\\expertsystem\\expertsystem\\context\\knowledgebasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75DE009-95B6-4B1E-AC69-3A139F34BB49}|ExpertSystem\\EFCore.csproj|solutionrelative:expertsystem\\context\\knowledgebasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75DE009-95B6-4B1E-AC69-3A139F34BB49}|ExpertSystem\\EFCore.csproj|d:\\programming\\code\\expertsystem\\expertsystem\\efcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C75DE009-95B6-4B1E-AC69-3A139F34BB49}|ExpertSystem\\EFCore.csproj|solutionrelative:expertsystem\\efcore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D4E5583-9F25-4CA2-BDBF-1CD92109A68D}|ExpertSystemWPF\\ExpertSystemWPF.csproj|d:\\programming\\code\\expertsystem\\expertsystemwpf\\expertsystemwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3D4E5583-9F25-4CA2-BDBF-1CD92109A68D}|ExpertSystemWPF\\ExpertSystemWPF.csproj|solutionrelative:expertsystemwpf\\expertsystemwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C75DE009-95B6-4B1E-AC69-3A139F34BB49}|ExpertSystem\\EFCore.csproj|d:\\programming\\code\\expertsystem\\expertsystem\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75DE009-95B6-4B1E-AC69-3A139F34BB49}|ExpertSystem\\EFCore.csproj|solutionrelative:expertsystem\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KnowledgeBaseContext.cs",
+              "DocumentMoniker": "D:\\Programming\\CODE\\ExpertSystem\\ExpertSystem\\Context\\KnowledgeBaseContext.cs",
+              "RelativeDocumentMoniker": "ExpertSystem\\Context\\KnowledgeBaseContext.cs",
+              "ToolTip": "D:\\Programming\\CODE\\ExpertSystem\\ExpertSystem\\Context\\KnowledgeBaseContext.cs",
+              "RelativeToolTip": "ExpertSystem\\Context\\KnowledgeBaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T23:03:49.214Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExpertSystemWPF.csproj",
+              "DocumentMoniker": "D:\\Programming\\CODE\\ExpertSystem\\ExpertSystemWPF\\ExpertSystemWPF.csproj",
+              "RelativeDocumentMoniker": "ExpertSystemWPF\\ExpertSystemWPF.csproj",
+              "ToolTip": "D:\\Programming\\CODE\\ExpertSystem\\ExpertSystemWPF\\ExpertSystemWPF.csproj",
+              "RelativeToolTip": "ExpertSystemWPF\\ExpertSystemWPF.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-26T13:38:12.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Programming\\CODE\\ExpertSystem\\ExpertSystemWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ExpertSystemWPF\\MainWindow.xaml",
+              "ToolTip": "D:\\Programming\\CODE\\ExpertSystem\\ExpertSystemWPF\\MainWindow.xaml",
+              "RelativeToolTip": "ExpertSystemWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-26T13:16:37.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Programming\\CODE\\ExpertSystem\\ExpertSystemWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ExpertSystemWPF\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Programming\\CODE\\ExpertSystem\\ExpertSystemWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ExpertSystemWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T13:16:37.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExpertSystemForCars.cs",
+              "DocumentMoniker": "D:\\Programming\\CODE\\ExpertSystem\\ESImplementer\\ExpertSystemForCars.cs",
+              "RelativeDocumentMoniker": "ESImplementer\\ExpertSystemForCars.cs",
+              "ToolTip": "D:\\Programming\\CODE\\ExpertSystem\\ESImplementer\\ExpertSystemForCars.cs",
+              "RelativeToolTip": "ESImplementer\\ExpertSystemForCars.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:14:17.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuestionsModelRepository.cs",
+              "DocumentMoniker": "D:\\Programming\\CODE\\ExpertSystem\\ExpertSystem\\Repo\\QuestionsModelRepository.cs",
+              "RelativeDocumentMoniker": "ExpertSystem\\Repo\\QuestionsModelRepository.cs",
+              "ToolTip": "D:\\Programming\\CODE\\ExpertSystem\\ExpertSystem\\Repo\\QuestionsModelRepository.cs",
+              "RelativeToolTip": "ExpertSystem\\Repo\\QuestionsModelRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T00:51:24.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KnowledgeModelRepository.cs",
+              "DocumentMoniker": "D:\\Programming\\CODE\\ExpertSystem\\ExpertSystem\\Repo\\KnowledgeModelRepository.cs",
+              "RelativeDocumentMoniker": "ExpertSystem\\Repo\\KnowledgeModelRepository.cs",
+              "ToolTip": "D:\\Programming\\CODE\\ExpertSystem\\ExpertSystem\\Repo\\KnowledgeModelRepository.cs",
+              "RelativeToolTip": "ExpertSystem\\Repo\\KnowledgeModelRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T00:51:13.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CarsModelRepository.cs",
+              "DocumentMoniker": "D:\\Programming\\CODE\\ExpertSystem\\ExpertSystem\\Repo\\CarsModelRepository.cs",
+              "RelativeDocumentMoniker": "ExpertSystem\\Repo\\CarsModelRepository.cs",
+              "ToolTip": "D:\\Programming\\CODE\\ExpertSystem\\ExpertSystem\\Repo\\CarsModelRepository.cs",
+              "RelativeToolTip": "ExpertSystem\\Repo\\CarsModelRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T00:51:01.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "D:\\Programming\\CODE\\ExpertSystem\\ExpertSystem\\Usings.cs",
+              "RelativeDocumentMoniker": "ExpertSystem\\Usings.cs",
+              "ToolTip": "D:\\Programming\\CODE\\ExpertSystem\\ExpertSystem\\Usings.cs",
+              "RelativeToolTip": "ExpertSystem\\Usings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T00:49:04.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EFCore.csproj",
+              "DocumentMoniker": "D:\\Programming\\CODE\\ExpertSystem\\ExpertSystem\\EFCore.csproj",
+              "RelativeDocumentMoniker": "ExpertSystem\\EFCore.csproj",
+              "ToolTip": "D:\\Programming\\CODE\\ExpertSystem\\ExpertSystem\\EFCore.csproj",
+              "RelativeToolTip": "ExpertSystem\\EFCore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-21T00:46:46.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuestionsEntityTypeConfiguration.cs",
+              "DocumentMoniker": "D:\\Programming\\CODE\\ExpertSystem\\ExpertSystem\\Context\\Configure\\QuestionsEntityTypeConfiguration.cs",
+              "RelativeDocumentMoniker": "ExpertSystem\\Context\\Configure\\QuestionsEntityTypeConfiguration.cs",
+              "ToolTip": "D:\\Programming\\CODE\\ExpertSystem\\ExpertSystem\\Context\\Configure\\QuestionsEntityTypeConfiguration.cs",
+              "RelativeToolTip": "ExpertSystem\\Context\\Configure\\QuestionsEntityTypeConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T23:38:00.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarsEntityTypeConfiguration.cs",
+              "DocumentMoniker": "D:\\Programming\\CODE\\ExpertSystem\\ExpertSystem\\Context\\Configure\\CarsEntityTypeConfiguration.cs",
+              "RelativeDocumentMoniker": "ExpertSystem\\Context\\Configure\\CarsEntityTypeConfiguration.cs",
+              "ToolTip": "D:\\Programming\\CODE\\ExpertSystem\\ExpertSystem\\Context\\Configure\\CarsEntityTypeConfiguration.cs",
+              "RelativeToolTip": "ExpertSystem\\Context\\Configure\\CarsEntityTypeConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T23:36:08.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KnowledgeEntityTypeConfiguration.cs",
+              "DocumentMoniker": "D:\\Programming\\CODE\\ExpertSystem\\ExpertSystem\\Context\\Configure\\KnowledgeEntityTypeConfiguration.cs",
+              "RelativeDocumentMoniker": "ExpertSystem\\Context\\Configure\\KnowledgeEntityTypeConfiguration.cs",
+              "ToolTip": "D:\\Programming\\CODE\\ExpertSystem\\ExpertSystem\\Context\\Configure\\KnowledgeEntityTypeConfiguration.cs",
+              "RelativeToolTip": "ExpertSystem\\Context\\Configure\\KnowledgeEntityTypeConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T23:19:57.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuestionsModel.cs",
+              "DocumentMoniker": "D:\\Programming\\CODE\\ExpertSystem\\ExpertSystem\\Models\\QuestionsModel.cs",
+              "RelativeDocumentMoniker": "ExpertSystem\\Models\\QuestionsModel.cs",
+              "ToolTip": "D:\\Programming\\CODE\\ExpertSystem\\ExpertSystem\\Models\\QuestionsModel.cs",
+              "RelativeToolTip": "ExpertSystem\\Models\\QuestionsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T23:17:32.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KnowledgeModel.cs",
+              "DocumentMoniker": "D:\\Programming\\CODE\\ExpertSystem\\ExpertSystem\\Models\\KnowledgeModel.cs",
+              "RelativeDocumentMoniker": "ExpertSystem\\Models\\KnowledgeModel.cs",
+              "ToolTip": "D:\\Programming\\CODE\\ExpertSystem\\ExpertSystem\\Models\\KnowledgeModel.cs",
+              "RelativeToolTip": "ExpertSystem\\Models\\KnowledgeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T23:17:21.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CarsModel.cs",
+              "DocumentMoniker": "D:\\Programming\\CODE\\ExpertSystem\\ExpertSystem\\Models\\CarsModel.cs",
+              "RelativeDocumentMoniker": "ExpertSystem\\Models\\CarsModel.cs",
+              "ToolTip": "D:\\Programming\\CODE\\ExpertSystem\\ExpertSystem\\Models\\CarsModel.cs",
+              "RelativeToolTip": "ExpertSystem\\Models\\CarsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T23:17:12.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
