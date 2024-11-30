@@ -11,5 +11,8 @@ namespace EducationQualityInfoSystem.EFCore.Models
         public int ID { get; set; }
         public string Name { get; set; }
         public List<QualityModel> Quality { get; set; }
+
+        public override string ToString()
+            => $"Индетификатор - {ID}\t {Name}";
     }
 }

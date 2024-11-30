@@ -20,17 +20,17 @@ namespace EducationQualityInfoSystem.EFCore.Context.Configuration
             builder
                 .HasOne(x => x.Student)
                 .WithMany(x => x.Quality)
-                .HasForeignKey("StudentId")
+                .HasForeignKey(x => x.StudentID)
                 .IsRequired(false);
             builder
                 .HasOne(x => x.DayOfWeek)
                 .WithMany(x => x.Quality)
-                .HasForeignKey("DayOfWeekId")
+                .HasForeignKey(x => x.DayOfWeekID)
                 .IsRequired(false);
             builder
                 .HasOne(x => x.Disciplines)
                 .WithMany(x => x.Quality)
-                .HasForeignKey("DisciplineId")
+                .HasForeignKey(x => x.DisciplineID)
                 .IsRequired(false);
             builder
                 .Property(x => x.IsPresent)

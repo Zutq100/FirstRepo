@@ -9,8 +9,11 @@ namespace EducationQualityInfoSystem.EFCore.Models
     public class MainModel
     {
         public int Id { get; set; }
-        public QualityModel Quality { get; set; }
-        public StudentsModel Students { get; set; }
+        public int StudentsID { get; set; }
+        public virtual StudentsModel Students { get; set; }
         public int EducationQuality { get; set; }
+
+        public override string ToString()
+            => $"Индентификатор учащегося - {StudentsID}\nПолное имя учащегося - " + (Students == null ? "" : Students.FullName) + $"\nОценка успеваемости (%) - {EducationQuality}";
     }
 }

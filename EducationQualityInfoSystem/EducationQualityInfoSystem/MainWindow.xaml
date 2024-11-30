@@ -17,15 +17,15 @@
             <RowDefinition/>
             <RowDefinition/>
         </Grid.RowDefinitions>
-        <ListBox Grid.Row="0" Grid.Column="0" Name="lbMain" Grid.ColumnSpan="2" Grid.RowSpan="2" Background="MediumAquamarine" BorderBrush="Black" BorderThickness="2" Focusable="False"/>
+        <ListBox FontSize="14" Grid.Row="0" Grid.Column="0" Name="lbMain" Grid.ColumnSpan="2" Grid.RowSpan="2" Background="MediumAquamarine" BorderBrush="Black" BorderThickness="2" Focusable="False"/>
         <ComboBox SelectionChanged="cmbSelectTable_SelectionChanged" Grid.Row="0" Grid.Column="3" Width="100" Height="25" HorizontalAlignment="Right" Margin="10,0" Name="cmbSelectTable">
-            <ComboBoxItem Content="Основная"/>
-            <ComboBoxItem Content="Студенты"/>
-            <ComboBoxItem Content="Успеваемость"/>
-            <ComboBoxItem Content="Дисциплины"/>
-            <ComboBoxItem Content="День недели" IsSelected="True"/>
+            <ComboBoxItem Content="Основная" Name="cbiMain"/>
+            <ComboBoxItem Content="Студенты" Name="cbiStudent"/>
+            <ComboBoxItem Content="Успеваемость" Name="cbiQuality"/>
+            <ComboBoxItem Content="Дисциплины" Name="cbiDiscipline"/>
+            <ComboBoxItem Content="День недели" IsSelected="True" Name="cbiDayOfWeek"/>
         </ComboBox>
-        <TextBox Grid.Row="0" Grid.Column="3" Width="250" Height="50" VerticalAlignment="Top" Margin="0,5,0,0" TextWrapping="Wrap"/>
+        <TextBox Text="" Name="txtSearch" Grid.Row="0" Grid.Column="3" Width="250" Height="50" VerticalAlignment="Top" Margin="0,5,0,0" TextWrapping="Wrap" TextChanged="TextBox_TextChanged"/>
         <TextBlock Text="Информационная система оценки качества организации учебного процесса" TextAlignment="Center" Foreground="MediumAquamarine" TextWrapping="Wrap" FontWeight="Black" FontSize="30" Grid.Column="0" Grid.Row="3" Grid.ColumnSpan="2" Focusable="False"/>
     </Grid>
 </Window>

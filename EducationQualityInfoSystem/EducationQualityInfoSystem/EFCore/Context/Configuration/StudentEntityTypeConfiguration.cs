@@ -17,6 +17,11 @@ namespace EducationQualityInfoSystem.EFCore.Context.Configuration
                 .HasKey(x => x.ID);
             builder
                 .ToTable("Students");
+            builder
+                .HasMany(x => x.MainModel)
+                .WithOne(x => x.Students)
+                .HasForeignKey(x => x.StudentsID)
+                .IsRequired(false);
         }
     }
 }

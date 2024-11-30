@@ -1,5 +1,5 @@
 ﻿using EducationQualityInfoSystem.EFCore.Context;
-using EducationQualityInfoSystem.EFCore.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace EducationQualityInfoSystem.EFCore.Repository
 {
@@ -17,5 +17,15 @@ namespace EducationQualityInfoSystem.EFCore.Repository
         public void Update(TValue value) => _context.Set<TValue>().Update(value);
         public TValue Get<TValue>(int id) where TValue : class => _context.Set<TValue>().Find(id);
         public TValue Get(int id) => _context.Set<TValue>().Find(id);
+        public List<TValue> GetAll(List<string> includes)
+        {
+            var set = _context.Set<TValue>().AsQueryable();
+
+            if (includes is null)
+                return set.ToList();
+            foreach (var include in includes)
+                set = set.Include(include);
+            return set.ToList();
+        }
     }
 }
