@@ -131,3 +131,5 @@ D:\Programming\FirstRepo\EducationQualityInfoSystem\EducationQualityInfoSystem\o
 D:\Programming\FirstRepo\EducationQualityInfoSystem\EducationQualityInfoSystem\obj\Debug\net8.0-windows\EducationQualityInfoSystem.pdb
 D:\Programming\FirstRepo\EducationQualityInfoSystem\EducationQualityInfoSystem\obj\Debug\net8.0-windows\EducationQualityInfoSystem.genruntimeconfig.cache
 D:\Programming\FirstRepo\EducationQualityInfoSystem\EducationQualityInfoSystem\obj\Debug\net8.0-windows\ref\EducationQualityInfoSystem.dll
+D:\Programming\FirstRepo\EducationQualityInfoSystem\EducationQualityInfoSystem\obj\Debug\net8.0-windows\Window1.g.cs
+D:\Programming\FirstRepo\EducationQualityInfoSystem\EducationQualityInfoSystem\obj\Debug\net8.0-windows\Window1.baml

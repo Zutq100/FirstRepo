@@ -5,9 +5,6 @@ using System.Windows.Controls;
 
 namespace EducationQualityInfoSystem
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
     public partial class MainWindow : Window
     {
         public MainWindow()
@@ -61,6 +58,77 @@ namespace EducationQualityInfoSystem
                 }
             }
             cmbSelectTable_SelectionChanged(null, null);
+        }
+
+        private void btnAddUpd_Click(object sender, RoutedEventArgs e)
+        {
+            var index = cmbSelectTable.SelectedIndex;
+            switch (index)
+            {
+                case 1:
+                    var windowStudent = lbMain.SelectedItem == null ? new Window1(this) : new Window1(this, lbMain.SelectedItem as StudentsModel);
+                    windowStudent.Show();
+                    this.Visibility = Visibility.Collapsed;
+                    break;
+                case 2:
+                    var windowQuality = lbMain.SelectedItem == null ? new Window1(this) : new Window1(this, lbMain.SelectedItem as QualityModel);
+                    windowQuality.Show();
+                    this.Visibility = Visibility.Collapsed;
+                    break;
+                default:
+                    this.Visibility = Visibility.Collapsed;
+                    break;
+            }
+        }
+
+        private void btnDlt_Click(object sender, RoutedEventArgs e)
+        {
+            var index = cmbSelectTable.SelectedIndex;
+            switch (index)
+            {
+                case 1:
+                    new MainRepository<StudentsModel>().Delete((lbMain.SelectedItem as StudentsModel).ID);
+                    break;
+                case 2:
+                    new MainRepository<QualityModel>().Delete((lbMain.SelectedItem as QualityModel).Id);
+                    break;
+            }
+        }
+
+        private void btnIsEvaluated_Click(object sender, RoutedEventArgs e)
+        {
+            if (lbMain.SelectedItem is null)
+                return;
+            if (cmbSelectTable.SelectedIndex != 2)
+                return;
+            var repo = new MainRepository<QualityModel>();
+            var model = lbMain.SelectedItem as QualityModel;
+            if (model.IsEvaluated is false)
+            {
+                model.IsEvaluated = true;
+                repo.Update(model);
+                return;
+            }
+            model.IsEvaluated = false;
+            repo.Update(model);
+        }
+
+        private void btnIsPresent_Click(object sender, RoutedEventArgs e)
+        {
+            if (lbMain.SelectedItem is null) 
+                return;
+            if (cmbSelectTable.SelectedIndex != 2)
+                return;
+            var repo = new MainRepository<QualityModel>();
+            var model = lbMain.SelectedItem as QualityModel;
+            if (model.IsPresent is false)
+            {
+                model.IsPresent = true;
+                repo.Update(model);
+                return;
+            }
+            model.IsPresent = false;
+            repo.Update(model);
         }
     }
 }
