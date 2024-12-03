@@ -14,6 +14,6 @@ namespace EducationQualityInfoSystem.EFCore.Models
         public int EducationQuality { get; set; }
 
         public override string ToString()
-            => $"Индентификатор учащегося - {StudentsID}\nПолное имя учащегося - " + (Students == null ? "" : Students.FullName) + $"\nОценка успеваемости (%) - {EducationQuality}";
+            => $"Идентификатор учащегося - {StudentsID}\nПолное имя учащегося - " + (Students == null ? "" : Students.FullName) + $"\nОценка успеваемости учащегося (%) - {EducationQuality}";
     }
 }

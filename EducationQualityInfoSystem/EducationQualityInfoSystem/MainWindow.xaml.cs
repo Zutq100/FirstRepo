@@ -75,9 +75,6 @@ namespace EducationQualityInfoSystem
                     windowQuality.Show();
                     this.Visibility = Visibility.Collapsed;
                     break;
-                default:
-                    this.Visibility = Visibility.Collapsed;
-                    break;
             }
         }
 

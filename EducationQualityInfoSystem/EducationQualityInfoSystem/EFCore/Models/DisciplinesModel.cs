@@ -14,7 +14,7 @@ namespace EducationQualityInfoSystem.EFCore.Models
         public List<QualityModel> Quality { get; set; }
 
         public override string ToString()
-            => $"Индентификатор - {ID}\n{DisciplineName}\t Всего часов на учебный год - {DisciplineTime}";
+            => $"Идентификатор - {ID}\n{DisciplineName}\t Всего часов на неделю - {DisciplineTime}";
 
 
     }

@@ -114,8 +114,10 @@ namespace EducationQualityInfoSystem
             switch (index)
             {
                 case 1:
-                    new MainRepository<StudentsModel>().Create(new StudentsModel() { FullName = tbFirst.Text.TrimStart().TrimEnd()});
+                    var studentCreate = new StudentsModel() { FullName = tbFirst.Text.TrimStart().TrimEnd()};
+                    new MainRepository<StudentsModel>().Create(studentCreate);
                     _main.lbMain.Items.Clear();
+                    new MainRepository<MainModel>().Create(new MainModel() {StudentsID = new MainRepository<StudentsModel>().GetAll().Last().ID});
                     new MainRepository<StudentsModel>().GetAll().ForEach(x => _main.lbMain.Items.Add(x));
                     break;
                 case 2:

@@ -20,6 +20,7 @@ namespace EducationQualityInfoSystem.EFCore.Context.Configuration
             builder
                 .HasMany(x => x.MainModel)
                 .WithOne(x => x.Students)
+                .OnDelete(DeleteBehavior.Cascade)
                 .HasForeignKey(x => x.StudentsID)
                 .IsRequired(false);
         }
