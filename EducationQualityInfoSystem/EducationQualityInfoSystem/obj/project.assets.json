@@ -1311,11 +1311,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\YaLocal\\Programing\\RepoForVSC\\FirstRepo\\EducationQualityInfoSystem\\EducationQualityInfoSystem\\EducationQualityInfoSystem.csproj",
+      "projectUniqueName": "C:\\Users\\YaLocal\\Documents\\GitRepo\\FirstRepo\\EducationQualityInfoSystem\\EducationQualityInfoSystem\\EducationQualityInfoSystem.csproj",
       "projectName": "EducationQualityInfoSystem",
-      "projectPath": "C:\\Users\\YaLocal\\Programing\\RepoForVSC\\FirstRepo\\EducationQualityInfoSystem\\EducationQualityInfoSystem\\EducationQualityInfoSystem.csproj",
+      "projectPath": "C:\\Users\\YaLocal\\Documents\\GitRepo\\FirstRepo\\EducationQualityInfoSystem\\EducationQualityInfoSystem\\EducationQualityInfoSystem.csproj",
       "packagesPath": "C:\\Users\\YaLocal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\YaLocal\\Programing\\RepoForVSC\\FirstRepo\\EducationQualityInfoSystem\\EducationQualityInfoSystem\\obj\\",
+      "outputPath": "C:\\Users\\YaLocal\\Documents\\GitRepo\\FirstRepo\\EducationQualityInfoSystem\\EducationQualityInfoSystem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\YaLocal\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1387,5 +1387,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Произошла ошибка при получении данных уязвимости пакета: Не удалось загрузить индекс службы для источника https://api.nuget.org/v3/index.json."
+    }
+  ]
 }

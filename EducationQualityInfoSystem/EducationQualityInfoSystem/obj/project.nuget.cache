@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nDj6WrdZB9E=",
+  "dgSpecHash": "JU52zSq5M28=",
   "success": true,
-  "projectFilePath": "C:\\Users\\YaLocal\\Programing\\RepoForVSC\\FirstRepo\\EducationQualityInfoSystem\\EducationQualityInfoSystem\\EducationQualityInfoSystem.csproj",
+  "projectFilePath": "C:\\Users\\YaLocal\\Documents\\GitRepo\\FirstRepo\\EducationQualityInfoSystem\\EducationQualityInfoSystem\\EducationQualityInfoSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\YaLocal\\.nuget\\packages\\microsoft.data.sqlite\\9.0.0\\microsoft.data.sqlite.9.0.0.nupkg.sha512",
     "C:\\Users\\YaLocal\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.0\\microsoft.data.sqlite.core.9.0.0.nupkg.sha512",
@@ -32,5 +32,12 @@
     "C:\\Users\\YaLocal\\.nuget\\packages\\system.text.encodings.web\\9.0.0\\system.text.encodings.web.9.0.0.nupkg.sha512",
     "C:\\Users\\YaLocal\\.nuget\\packages\\system.text.json\\9.0.0\\system.text.json.9.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Произошла ошибка при получении данных уязвимости пакета: Не удалось загрузить индекс службы для источника https://api.nuget.org/v3/index.json."
+    }
+  ]
 }

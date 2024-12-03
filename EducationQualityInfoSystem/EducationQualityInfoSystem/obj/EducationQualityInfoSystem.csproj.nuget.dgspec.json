@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\YaLocal\\Programing\\RepoForVSC\\FirstRepo\\EducationQualityInfoSystem\\EducationQualityInfoSystem\\EducationQualityInfoSystem.csproj": {}
+    "C:\\Users\\YaLocal\\Documents\\GitRepo\\FirstRepo\\EducationQualityInfoSystem\\EducationQualityInfoSystem\\EducationQualityInfoSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\YaLocal\\Programing\\RepoForVSC\\FirstRepo\\EducationQualityInfoSystem\\EducationQualityInfoSystem\\EducationQualityInfoSystem.csproj": {
+    "C:\\Users\\YaLocal\\Documents\\GitRepo\\FirstRepo\\EducationQualityInfoSystem\\EducationQualityInfoSystem\\EducationQualityInfoSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\YaLocal\\Programing\\RepoForVSC\\FirstRepo\\EducationQualityInfoSystem\\EducationQualityInfoSystem\\EducationQualityInfoSystem.csproj",
+        "projectUniqueName": "C:\\Users\\YaLocal\\Documents\\GitRepo\\FirstRepo\\EducationQualityInfoSystem\\EducationQualityInfoSystem\\EducationQualityInfoSystem.csproj",
         "projectName": "EducationQualityInfoSystem",
-        "projectPath": "C:\\Users\\YaLocal\\Programing\\RepoForVSC\\FirstRepo\\EducationQualityInfoSystem\\EducationQualityInfoSystem\\EducationQualityInfoSystem.csproj",
+        "projectPath": "C:\\Users\\YaLocal\\Documents\\GitRepo\\FirstRepo\\EducationQualityInfoSystem\\EducationQualityInfoSystem\\EducationQualityInfoSystem.csproj",
         "packagesPath": "C:\\Users\\YaLocal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\YaLocal\\Programing\\RepoForVSC\\FirstRepo\\EducationQualityInfoSystem\\EducationQualityInfoSystem\\obj\\",
+        "outputPath": "C:\\Users\\YaLocal\\Documents\\GitRepo\\FirstRepo\\EducationQualityInfoSystem\\EducationQualityInfoSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\YaLocal\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -107,10 +107,12 @@ namespace EducationQualityInfoSystem
             {
                 model.IsEvaluated = true;
                 repo.Update(model);
+                UpdateQuality(model);
                 return;
             }
             model.IsEvaluated = false;
             repo.Update(model);
+            UpdateQuality(model);
         }
 
         private void btnIsPresent_Click(object sender, RoutedEventArgs e)
@@ -125,10 +127,12 @@ namespace EducationQualityInfoSystem
             {
                 model.IsPresent = true;
                 repo.Update(model);
+                UpdateQuality(model);
                 return;
             }
             model.IsPresent = false;
             repo.Update(model);
+            UpdateQuality(model);
         }
 
         public void UpdateQuality(QualityModel target)
