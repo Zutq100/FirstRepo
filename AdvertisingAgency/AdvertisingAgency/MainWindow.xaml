@@ -1,0 +1,29 @@
+﻿<Window x:Class="AdvertisingAgency.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AdvertisingAgency"
+        mc:Ignorable="d"
+        Title="Рекламное агентство" Height="450" Width="850" ResizeMode="NoResize" IsVisibleChanged="Window_IsVisibleChanged">
+    <Grid>
+        <ListBox Background="DeepSkyBlue" BorderBrush="Black" BorderThickness="1" Name="lbText" Margin="0,32,0,0" FontFamily="Times New Roman" FontSize="18"/>
+        <Menu  VerticalAlignment="Top" Background="WhiteSmoke" Height="32" Grid.ColumnSpan="2">
+            <Button Name="btnCreate" Width="110" Height="25" Content="Cоздать/Изменить" FontSize="12" Background="GhostWhite" BorderBrush="Black" Click="btnCreate_Click"/>
+            <Button Name="btnDelete" Width="110" Height="25" Content="Удалить" FontSize="12" Background="GhostWhite" BorderBrush="Black" Click="btnDelete_Click"/>
+            <Button x:Name="btnStatus" Width="110" Height="25" Content="Открыт/Закрыт" FontSize="12" Background="GhostWhite" BorderBrush="Black" Click="btnStatus_Click"/>
+            <TextBox Width="185" Height="25" Name="txtSearch" BorderBrush="Black" TextChanged="txtSearch_TextChanged"/>
+            <ComboBox Width="100" Name="cmbBase" SelectionChanged="cmbBase_SelectionChanged">
+                <ComboBoxItem Content="Клиенты" Name="cbiClients"/>
+                <ComboBoxItem Content="Заказы" Name="cbiOrders"/>
+                <ComboBoxItem Content="Отзывы" Name="cbiReviews"/>
+            </ComboBox>
+            <ComboBox Width="100" Name="cmbFilter" SelectionChanged="cmbFilter_SelectionChanged" Visibility="Collapsed">
+                <ComboBoxItem Content ="Показать не принятые"/>
+                <ComboBoxItem Content="Показать открытые"/>
+                <ComboBoxItem Content="Показать закрытые"/>
+                <ComboBoxItem Content="Показать все"/>
+            </ComboBox>
+        </Menu>
+    </Grid>
+</Window>

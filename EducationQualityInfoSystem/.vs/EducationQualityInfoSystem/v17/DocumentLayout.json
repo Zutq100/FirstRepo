@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "D:\\Programming\\FirstRepo\\EducationQualityInfoSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6F42BC2-DA7A-4C63-BBC3-39ED6C58A8E1}|EducationQualityInfoSystem\\EducationQualityInfoSystem.csproj|d:\\programming\\firstrepo\\educationqualityinfosystem\\educationqualityinfosystem\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E6F42BC2-DA7A-4C63-BBC3-39ED6C58A8E1}|EducationQualityInfoSystem\\EducationQualityInfoSystem.csproj|solutionrelative:educationqualityinfosystem\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{E6F42BC2-DA7A-4C63-BBC3-39ED6C58A8E1}|EducationQualityInfoSystem\\EducationQualityInfoSystem.csproj|d:\\programming\\firstrepo\\educationqualityinfosystem\\educationqualityinfosystem\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F42BC2-DA7A-4C63-BBC3-39ED6C58A8E1}|EducationQualityInfoSystem\\EducationQualityInfoSystem.csproj|solutionrelative:educationqualityinfosystem\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F42BC2-DA7A-4C63-BBC3-39ED6C58A8E1}|EducationQualityInfoSystem\\EducationQualityInfoSystem.csproj|d:\\programming\\firstrepo\\educationqualityinfosystem\\educationqualityinfosystem\\efcore\\context\\educationqualitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F42BC2-DA7A-4C63-BBC3-39ED6C58A8E1}|EducationQualityInfoSystem\\EducationQualityInfoSystem.csproj|solutionrelative:educationqualityinfosystem\\efcore\\context\\educationqualitycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6F42BC2-DA7A-4C63-BBC3-39ED6C58A8E1}|EducationQualityInfoSystem\\EducationQualityInfoSystem.csproj|d:\\programming\\firstrepo\\educationqualityinfosystem\\educationqualityinfosystem\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6F42BC2-DA7A-4C63-BBC3-39ED6C58A8E1}|EducationQualityInfoSystem\\EducationQualityInfoSystem.csproj|solutionrelative:educationqualityinfosystem\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E6F42BC2-DA7A-4C63-BBC3-39ED6C58A8E1}|EducationQualityInfoSystem\\EducationQualityInfoSystem.csproj|d:\\programming\\firstrepo\\educationqualityinfosystem\\educationqualityinfosystem\\efcore\\repository\\mainrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F42BC2-DA7A-4C63-BBC3-39ED6C58A8E1}|EducationQualityInfoSystem\\EducationQualityInfoSystem.csproj|solutionrelative:educationqualityinfosystem\\efcore\\repository\\mainrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E6F42BC2-DA7A-4C63-BBC3-39ED6C58A8E1}|EducationQualityInfoSystem\\EducationQualityInfoSystem.csproj|d:\\programming\\firstrepo\\educationqualityinfosystem\\educationqualityinfosystem\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E6F42BC2-DA7A-4C63-BBC3-39ED6C58A8E1}|EducationQualityInfoSystem\\EducationQualityInfoSystem.csproj|solutionrelative:educationqualityinfosystem\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6F42BC2-DA7A-4C63-BBC3-39ED6C58A8E1}|EducationQualityInfoSystem\\EducationQualityInfoSystem.csproj|d:\\programming\\firstrepo\\educationqualityinfosystem\\educationqualityinfosystem\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6F42BC2-DA7A-4C63-BBC3-39ED6C58A8E1}|EducationQualityInfoSystem\\EducationQualityInfoSystem.csproj|solutionrelative:educationqualityinfosystem\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6F42BC2-DA7A-4C63-BBC3-39ED6C58A8E1}|EducationQualityInfoSystem\\EducationQualityInfoSystem.csproj|d:\\programming\\firstrepo\\educationqualityinfosystem\\educationqualityinfosystem\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E6F42BC2-DA7A-4C63-BBC3-39ED6C58A8E1}|EducationQualityInfoSystem\\EducationQualityInfoSystem.csproj|solutionrelative:educationqualityinfosystem\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6F42BC2-DA7A-4C63-BBC3-39ED6C58A8E1}|EducationQualityInfoSystem\\EducationQualityInfoSystem.csproj|d:\\programming\\firstrepo\\educationqualityinfosystem\\educationqualityinfosystem\\efcore\\models\\mainmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6F42BC2-DA7A-4C63-BBC3-39ED6C58A8E1}|EducationQualityInfoSystem\\EducationQualityInfoSystem.csproj|solutionrelative:educationqualityinfosystem\\efcore\\models\\mainmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6F42BC2-DA7A-4C63-BBC3-39ED6C58A8E1}|EducationQualityInfoSystem\\EducationQualityInfoSystem.csproj|d:\\programming\\firstrepo\\educationqualityinfosystem\\educationqualityinfosystem\\efcore\\repository\\mainrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6F42BC2-DA7A-4C63-BBC3-39ED6C58A8E1}|EducationQualityInfoSystem\\EducationQualityInfoSystem.csproj|solutionrelative:educationqualityinfosystem\\efcore\\repository\\mainrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,57 +42,66 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\EducationQualityInfoSystem\\EducationQualityInfoSystem\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EducationQualityInfoSystem\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\EducationQualityInfoSystem\\EducationQualityInfoSystem\\MainWindow.xaml.cs",
+              "RelativeToolTip": "EducationQualityInfoSystem\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAuwDUAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T07:47:40.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EducationQualityContext.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\EducationQualityInfoSystem\\EducationQualityInfoSystem\\EFCore\\Context\\EducationQualityContext.cs",
+              "RelativeDocumentMoniker": "EducationQualityInfoSystem\\EFCore\\Context\\EducationQualityContext.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\EducationQualityInfoSystem\\EducationQualityInfoSystem\\EFCore\\Context\\EducationQualityContext.cs",
+              "RelativeToolTip": "EducationQualityInfoSystem\\EFCore\\Context\\EducationQualityContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T16:09:00.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Window1.xaml.cs",
               "DocumentMoniker": "D:\\Programming\\FirstRepo\\EducationQualityInfoSystem\\EducationQualityInfoSystem\\Window1.xaml.cs",
               "RelativeDocumentMoniker": "EducationQualityInfoSystem\\Window1.xaml.cs",
               "ToolTip": "D:\\Programming\\FirstRepo\\EducationQualityInfoSystem\\EducationQualityInfoSystem\\Window1.xaml.cs",
               "RelativeToolTip": "EducationQualityInfoSystem\\Window1.xaml.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAA1wDIAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAA1wEIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T15:36:24.776Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Programming\\FirstRepo\\EducationQualityInfoSystem\\EducationQualityInfoSystem\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "EducationQualityInfoSystem\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\Programming\\FirstRepo\\EducationQualityInfoSystem\\EducationQualityInfoSystem\\MainWindow.xaml.cs",
-              "RelativeToolTip": "EducationQualityInfoSystem\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAADVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T07:47:40.8Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Window1.xaml",
               "DocumentMoniker": "D:\\Programming\\FirstRepo\\EducationQualityInfoSystem\\EducationQualityInfoSystem\\Window1.xaml",
               "RelativeDocumentMoniker": "EducationQualityInfoSystem\\Window1.xaml",
               "ToolTip": "D:\\Programming\\FirstRepo\\EducationQualityInfoSystem\\EducationQualityInfoSystem\\Window1.xaml",
               "RelativeToolTip": "EducationQualityInfoSystem\\Window1.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-01T15:36:19.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T15:36:19.43Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\Programming\\FirstRepo\\EducationQualityInfoSystem\\EducationQualityInfoSystem\\MainWindow.xaml",
               "RelativeDocumentMoniker": "EducationQualityInfoSystem\\MainWindow.xaml",
               "ToolTip": "D:\\Programming\\FirstRepo\\EducationQualityInfoSystem\\EducationQualityInfoSystem\\MainWindow.xaml",
               "RelativeToolTip": "EducationQualityInfoSystem\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-23T07:47:42.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T07:47:42.58Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "MainModel.cs",
               "DocumentMoniker": "D:\\Programming\\FirstRepo\\EducationQualityInfoSystem\\EducationQualityInfoSystem\\EFCore\\Models\\MainModel.cs",
               "RelativeDocumentMoniker": "EducationQualityInfoSystem\\EFCore\\Models\\MainModel.cs",
@@ -96,21 +109,19 @@
               "RelativeToolTip": "EducationQualityInfoSystem\\EFCore\\Models\\MainModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T15:51:32.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T15:51:32.934Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "MainRepository.cs",
               "DocumentMoniker": "D:\\Programming\\FirstRepo\\EducationQualityInfoSystem\\EducationQualityInfoSystem\\EFCore\\Repository\\MainRepository.cs",
               "RelativeDocumentMoniker": "EducationQualityInfoSystem\\EFCore\\Repository\\MainRepository.cs",
               "ToolTip": "D:\\Programming\\FirstRepo\\EducationQualityInfoSystem\\EducationQualityInfoSystem\\EFCore\\Repository\\MainRepository.cs",
               "RelativeToolTip": "EducationQualityInfoSystem\\EFCore\\Repository\\MainRepository.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBwAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowBwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T13:33:06.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-30T13:33:06.384Z"
             }
           ]
         }
