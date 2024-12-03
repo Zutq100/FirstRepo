@@ -140,10 +140,15 @@ namespace EducationQualityInfoSystem
             var repoMain = new MainRepository<MainModel>();
             var listQualityStudent = new MainRepository<QualityModel>().GetAll(QualityModel.GetAllIncludes()).Where(x => x.StudentID == target.StudentID);
 
-            var count = listQualityStudent.Count() * 2;
+            double count = listQualityStudent.Count() * 2;
+            double countPresent = listQualityStudent.Select(x => x.IsPresent).Where(x => x == true).Count();
+            double countEval = listQualityStudent.Select(x => x.IsEvaluated).Where(x => x == true).Count();
 
             var student = repoMain.GetAll(new List<string> { nameof(MainModel.Students) }).Where(x => x.StudentsID == target.StudentID).First();
-            student.EducationQuality = (listQualityStudent.Select(x => x.IsPresent).Where(x => x == true).Count() + listQualityStudent.Select(x => x.IsEvaluated).Where(x => x == true).Count()) / count * 100;
+            
+            var result = (countPresent + countEval) / count * 100;
+
+            student.EducationQuality = (int)result;
 
             repoMain.Update(student);
         }
