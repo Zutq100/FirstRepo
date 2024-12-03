@@ -18,9 +18,11 @@ namespace EducationQualityInfoSystem.EFCore.Models
         public bool? IsEvaluated { get; set; }
         public bool? IsPresent { get; set; }
 
+        public static List<string> GetAllIncludes()
+            => new List<string> { nameof(Student), nameof(Disciplines), nameof(DayOfWeek) };
         public override string ToString()
-            => $"Индентификатор учащегося - {StudentID}\n"+(Student == null ? "Учащийся не выбран" : Student.FullName) + $"\nДисциплина - " +
-            (Disciplines == null? "Дисциплина не выбрана" : Disciplines.DisciplineName) + "\nДень недели - " + (DayOfWeek == null ? "День недели не выбран" : DayOfWeek.Name) +
+            => $"Индентификатор учащегося - {StudentID}\n" + (Student == null ? "Учащийся не выбран" : Student.FullName) + $"\nДисциплина - " +
+            (Disciplines == null ? "Дисциплина не выбрана" : Disciplines.DisciplineName) + "\nДень недели - " + (DayOfWeek == null ? "День недели не выбран" : DayOfWeek.Name) +
             (IsEvaluated == false ? "\nНе отработал - " : "\nОтработал - ") + (IsPresent == false ? "Отсутствовал" : "Присутствовал");
     }
 }

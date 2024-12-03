@@ -24,7 +24,7 @@ namespace EducationQualityInfoSystem
                     new MainRepository<StudentsModel>().GetAll().ForEach(x => lbMain.Items.Add(x));
                     break;
                 case 2:
-                    new MainRepository<QualityModel>().GetAll(new List<string> { nameof(QualityModel.Student), nameof(QualityModel.Disciplines), nameof(QualityModel.DayOfWeek) }).ForEach(x => lbMain.Items.Add(x));
+                    new MainRepository<QualityModel>().GetAll(QualityModel.GetAllIncludes()).ForEach(x => lbMain.Items.Add(x));
                     break;
                 case 3:
                     new MainRepository<DisciplinesModel>().GetAll().ForEach(x => lbMain.Items.Add(x));
@@ -51,7 +51,7 @@ namespace EducationQualityInfoSystem
                 }
                 if (cbiQuality.IsSelected == true)
                 {
-                    var results = new MainRepository<QualityModel>().GetAll(new List<string> { nameof(QualityModel.Student), nameof(QualityModel.Disciplines), nameof(QualityModel.DayOfWeek) });
+                    var results = new MainRepository<QualityModel>().GetAll(QualityModel.GetAllIncludes());
                     foreach (var result in results.Where(x => keyWords.All(kw => x.ToString().ToLower().Contains(kw.ToLower()))))
                         lbMain.Items.Add(result);
                     return;
@@ -115,7 +115,7 @@ namespace EducationQualityInfoSystem
 
         private void btnIsPresent_Click(object sender, RoutedEventArgs e)
         {
-            if (lbMain.SelectedItem is null) 
+            if (lbMain.SelectedItem is null)
                 return;
             if (cmbSelectTable.SelectedIndex != 2)
                 return;
@@ -129,6 +129,19 @@ namespace EducationQualityInfoSystem
             }
             model.IsPresent = false;
             repo.Update(model);
+        }
+
+        public void UpdateQuality(QualityModel target)
+        {
+            var repoMain = new MainRepository<MainModel>();
+            var listQualityStudent = new MainRepository<QualityModel>().GetAll(QualityModel.GetAllIncludes()).Where(x => x.StudentID == target.StudentID);
+
+            var count = listQualityStudent.Count() * 2;
+
+            var student = repoMain.GetAll(new List<string> { nameof(MainModel.Students) }).Where(x => x.StudentsID == target.StudentID).First();
+            student.EducationQuality = (listQualityStudent.Select(x => x.IsPresent).Where(x => x == true).Count() + listQualityStudent.Select(x => x.IsEvaluated).Where(x => x == true).Count()) / count * 100;
+
+            repoMain.Update(student);
         }
     }
 }
