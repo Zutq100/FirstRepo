@@ -40,8 +40,32 @@ namespace AdvertisingAgency
                     }
                     break;
                 case 1:
+                    if (lbText.SelectedItem != null)
+                    {
+                        var window = new AddOrUpdateOrderWindow(this, lbText.SelectedItem as OrdersTable);
+                        window.Show();
+                        this.Visibility = Visibility.Collapsed;
+                    }
+                    else
+                    {
+                        var window = new AddOrUpdateOrderWindow(this);
+                        window.Show();
+                        this.Visibility = Visibility.Collapsed;
+                    }
                     break;
                 case 2:
+                    if (lbText.SelectedItem != null)
+                    {
+                        var window = new AddOrUpdateReviewsWindow(this, lbText.SelectedItem as ReviewsTable);
+                        window.Show();
+                        this.Visibility = Visibility.Collapsed;
+                    }
+                    else
+                    {
+                        var window = new AddOrUpdateReviewsWindow(this);
+                        window.Show();
+                        this.Visibility = Visibility.Collapsed;
+                    }
                     break;
                 default:
                     break;

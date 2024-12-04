@@ -14,5 +14,8 @@ namespace AdvertisingAgency.Models
         public string DescriptionReviews { get; set; }
         public OrdersTable Order { get; set; }
 
+        public override string ToString()
+            => (Order == null ? "" : $"Клиент: {Order.Client.FullName} - ID Заказа ({OrderID})\nОписание заказа:{Order.Description}") + $"\nОтзыв: {DescriptionReviews}";
+
     }
 }

@@ -71,6 +71,14 @@ namespace AdvertisingAgency
         }
 
         private void btnCancel_Click(object sender, RoutedEventArgs e)
-            => Close();
+        {
+            _owner.Visibility = Visibility.Visible;
+            Close();
+        }
+
+        private void Window_Closed(object sender, EventArgs e)
+        {
+            _owner.Visibility = Visibility.Visible;
+        }
     }
 }

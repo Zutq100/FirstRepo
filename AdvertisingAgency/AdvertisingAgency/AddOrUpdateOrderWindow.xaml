@@ -5,12 +5,12 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:AdvertisingAgency"
         mc:Ignorable="d"
-        Title="AddOrUpdateOrderWindow" Height="200" Width="460" ResizeMode="NoResize">
+        Title="AddOrUpdateOrderWindow" Height="200" Width="460" ResizeMode="NoResize" Closed="Window_Closed">
     <Grid Background="DeepSkyBlue">
         <StackPanel Margin="0,10">
             <DockPanel>
                 <Label Content="Клиент" Height="30" VerticalAlignment="Top"/>
-                <ComboBox Width="100" Height="30" VerticalAlignment="Top" Name="tbClient"/>
+                <ComboBox Width="100" Height="30" VerticalAlignment="Top" Name="cmbClient"/>
                 <Label Content="Бюджет" Height="30" VerticalAlignment="Top"/>
                 <TextBox Width="100" Height="30" VerticalAlignment="Top" Name="tbBudget"/>
                 <Label Content="Срок заказа" Height="30" VerticalAlignment="Top"/>
@@ -20,8 +20,8 @@
                 <Label Content="Описание заказа:" HorizontalAlignment="Center" Height="30"/>
                 <TextBox Width="350" Height="60" HorizontalAlignment="Left" TextWrapping="Wrap" Name="tbDescription"/>
             </DockPanel>
-            <Button Content="Принять" Height="30" Width="100" VerticalAlignment="Bottom" Name="btnAccept"/>
-            <Button Content="Отменить" Height="30" Width="100" VerticalAlignment="Bottom" Name="btnCancel"/>
+            <Button Content="Принять" Height="30" Width="100" VerticalAlignment="Bottom" Name="btnAccept" Click="btnAccept_Click"/>
+            <Button Content="Отменить" Height="30" Width="100" VerticalAlignment="Bottom" Name="btnCancel" Click="btnCancel_Click"/>
         </StackPanel>
     </Grid>
 </Window>

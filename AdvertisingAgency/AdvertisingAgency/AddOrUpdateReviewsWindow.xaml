@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:AdvertisingAgency"
         mc:Ignorable="d"
-        Title="AddOrUpdateReviewsWindow" Height="210" Width="200" ResizeMode="NoResize">
+        Title="AddOrUpdateReviewsWindow" Height="230" Width="211" ResizeMode="NoResize" Closed="Window_Closed">
     <Grid Background="DeepSkyBlue">
         <StackPanel Margin="0,10">
             <DockPanel>
@@ -16,8 +16,8 @@
                 <Label Content="Отзыв:" HorizontalAlignment="Center" Height="30"/>
                 <TextBox Width="150" Height="60" HorizontalAlignment="Left" TextWrapping="Wrap" Name="tbReviews"/>
             </DockPanel>
-            <Button Content="Принять" Height="30" Width="100" VerticalAlignment="Bottom" Name="btnAccept"/>
-            <Button Content="Отменить" Height="30" Width="100" VerticalAlignment="Bottom" Name="btnCancel"/>
+            <Button Content="Принять" Height="30" Width="100" VerticalAlignment="Bottom" Name="btnAccept" Click="btnAccept_Click"/>
+            <Button Content="Отменить" Height="30" Width="100" VerticalAlignment="Bottom" Name="btnCancel" Click="btnCancel_Click"/>
         </StackPanel>
     </Grid>
 </Window>

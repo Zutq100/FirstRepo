@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -15,11 +16,11 @@ namespace AdvertisingAgency.Models
         public string Description { get; set; }
         public string Status { get; set; }
         public string TermOfRealization { get; set; }
-        public ClientsTable Client {  get; set; }
+        public virtual ClientsTable Client {  get; set; }
         public List<ReviewsTable> Reviews { get; set; }
 
         //Переопределенный метод с помощью которого возвращается строка в нужном виде.
         public override string ToString()
-            => $"ID ({ID}) " + (Client == null ? "Неизвестно" : Client.FullName) + $" - Бюджет на рекламу:{Budget} руб\n" + (Client == null ? "Неизвестно" : $"Email клиента: {Client.Email}\nТелефон клиента: {Client.Telephone}") + $"\n{Description}\nСрок заказа:{TermOfRealization}\nСтатус заказа: {Status}";
+            => $"ID ({ID}) " + (Client == null ? "Неизвестно" : Client.FullName) + $" - Бюджет на рекламу:{Budget} руб\n" + (Client == null ? "Неизвестно" : $"Email клиента: {Client.Email}\nТелефон клиента: {Client.Telephone}") + $"\n{Description}\nСрок заказа:{TermOfRealization.Split(' ').First()}\nСтатус заказа: {Status}";
     }
 }

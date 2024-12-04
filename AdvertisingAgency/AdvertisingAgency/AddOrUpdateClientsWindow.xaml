@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:AdvertisingAgency"
         mc:Ignorable="d"
-        Title="AddOrUpdateClientsWindow" Height="200" Width="460" ResizeMode="NoResize">
+        Title="AddOrUpdateClientsWindow" Height="200" Width="460" ResizeMode="NoResize" Closed="Window_Closed">
     <Grid Background="DeepSkyBlue">
         <StackPanel Margin="0,10">
             <DockPanel>
