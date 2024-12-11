@@ -16,9 +16,7 @@ using System.Windows.Shapes;
 
 namespace AdvertisingAgency
 {
-    /// <summary>
-    /// Логика взаимодействия для AddOrUpdateClientsWindow.xaml
-    /// </summary>
+    //Окно добавления или изменения элемента таблицы Клиентов.
     public partial class AddOrUpdateClientsWindow : Window
     {
         MainWindow _owner;

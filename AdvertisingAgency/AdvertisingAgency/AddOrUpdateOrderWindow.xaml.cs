@@ -4,9 +4,7 @@ using System.Windows;
 
 namespace AdvertisingAgency
 {
-    /// <summary>
-    /// Логика взаимодействия для AddOrUpdateOrderWindow.xaml
-    /// </summary>
+    //Окно добавления и изменения элемента таблицы Заказов
     public partial class AddOrUpdateOrderWindow : Window
     {
         MainWindow _owner;
@@ -54,7 +52,6 @@ namespace AdvertisingAgency
                 target.TermOfRealization = dpTerms.SelectedDate.ToString();
             _context.Update(target);
             _context.SaveChanges(true);
-            _context.Dispose();
             _owner.Visibility = Visibility.Visible;
             Close();
         }

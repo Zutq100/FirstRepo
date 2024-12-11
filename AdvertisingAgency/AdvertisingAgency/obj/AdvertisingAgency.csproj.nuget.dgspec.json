@@ -1,28 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\FirstRepo\\AdvertisingAgency\\AdvertisingAgency\\AdvertisingAgency.csproj": {}
+    "C:\\Users\\YaLocal\\Documents\\GitRepo\\FirstRepo\\AdvertisingAgency\\AdvertisingAgency\\AdvertisingAgency.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\FirstRepo\\AdvertisingAgency\\AdvertisingAgency\\AdvertisingAgency.csproj": {
+    "C:\\Users\\YaLocal\\Documents\\GitRepo\\FirstRepo\\AdvertisingAgency\\AdvertisingAgency\\AdvertisingAgency.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\FirstRepo\\AdvertisingAgency\\AdvertisingAgency\\AdvertisingAgency.csproj",
+        "projectUniqueName": "C:\\Users\\YaLocal\\Documents\\GitRepo\\FirstRepo\\AdvertisingAgency\\AdvertisingAgency\\AdvertisingAgency.csproj",
         "projectName": "AdvertisingAgency",
-        "projectPath": "D:\\Programming\\FirstRepo\\AdvertisingAgency\\AdvertisingAgency\\AdvertisingAgency.csproj",
-        "packagesPath": "C:\\Users\\doski\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\FirstRepo\\AdvertisingAgency\\AdvertisingAgency\\obj\\",
+        "projectPath": "C:\\Users\\YaLocal\\Documents\\GitRepo\\FirstRepo\\AdvertisingAgency\\AdvertisingAgency\\AdvertisingAgency.csproj",
+        "packagesPath": "C:\\Users\\YaLocal\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\YaLocal\\Documents\\GitRepo\\FirstRepo\\AdvertisingAgency\\AdvertisingAgency\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "D:\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\YaLocal\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0-windows"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,8 +36,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -74,7 +72,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

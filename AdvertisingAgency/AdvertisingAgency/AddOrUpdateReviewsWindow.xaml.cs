@@ -5,9 +5,7 @@ using System.Windows;
 
 namespace AdvertisingAgency
 {
-    /// <summary>
-    /// Логика взаимодействия для AddOrUpdateReviewsWindow.xaml
-    /// </summary>
+    //Окно для добавление или обновление элемента отзывов.
     public partial class AddOrUpdateReviewsWindow : Window
     {
         MainWindow _owner;
@@ -43,7 +41,6 @@ namespace AdvertisingAgency
 
             _context.Reviews.Update(target);
             _context.SaveChanges();
-            _context.Dispose();
             _owner.Visibility = Visibility.Visible;
             Close();
         }

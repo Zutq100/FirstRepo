@@ -7,9 +7,7 @@ using System.Windows.Controls;
 
 namespace AdvertisingAgency
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
+    //Основное окно информационной системы
     public partial class MainWindow : Window
     {
         private AdvertisingAgencyContext _context;
@@ -20,7 +18,7 @@ namespace AdvertisingAgency
             cmbFilter.SelectedIndex = 3;
             cmbBase.SelectedIndex = 0;
         }
-
+        //Кнопка добавления вызывает окно добавления или обновления в зависимости от выбранной таблицы.
         private void btnCreate_Click(object sender, RoutedEventArgs e)
         {
             switch (cmbBase.SelectedIndex)
@@ -71,7 +69,7 @@ namespace AdvertisingAgency
                     break;
             }
         }
-
+        //Удаляет выбранный элемент
         private void btnDelete_Click(object sender, RoutedEventArgs e)
         {
             if (lbText.SelectedItem is null)
@@ -98,7 +96,7 @@ namespace AdvertisingAgency
                     break;
             }
         }
-
+        //Меняет атрибут статуса выбранного элемента
         private void btnStatus_Click(object sender, RoutedEventArgs e)
         {
             if (cmbBase.SelectedIndex != 1)
@@ -128,7 +126,7 @@ namespace AdvertisingAgency
                     break;
             }
         }
-
+        //При изменение текста в TextBox происходит поиск по введеным данным
         private void txtSearch_TextChanged(object sender, TextChangedEventArgs e)
         {
             var content = txtSearch.Text;
@@ -165,7 +163,7 @@ namespace AdvertisingAgency
             }
             cmbFilter_SelectionChanged(null, null);
         }
-
+        //Событие, при выборе элемента из выпадающего списка, подгружается соответствующая таблица
         private void cmbBase_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             lbText.ItemsSource = null;
@@ -186,7 +184,7 @@ namespace AdvertisingAgency
                     break;
             }
         }
-
+        //Событие, при выборе элемента из выпадающего списка происходит фильтрация по заказам
         private void cmbFilter_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             if (cmbBase.SelectedIndex != 1)
@@ -209,7 +207,7 @@ namespace AdvertisingAgency
                     break;
             }
         }
-
+        //Событие при изменение отображении окна, в случае когда окно становится видимым вызывает событие выбора таблицы
         private void Window_IsVisibleChanged(object sender, DependencyPropertyChangedEventArgs e)
         {
             if (this.Visibility == Visibility.Collapsed)

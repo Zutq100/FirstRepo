@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\Programming\FirstRepo\AdvertisingAgency\AdvertisingAgency\obj\Debug\net8.0-windows\
+c:\Users\YaLocal\Documents\GitRepo\FirstRepo\AdvertisingAgency\AdvertisingAgency\obj\Debug\net8.0-windows\
 AdvertisingAgency
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-D:\Programming\FirstRepo\AdvertisingAgency\AdvertisingAgency\App.xaml
+c:\Users\YaLocal\Documents\GitRepo\FirstRepo\AdvertisingAgency\AdvertisingAgency\App.xaml
 41895854399
 
 111801954522
-217-199899276
+217-2121906317
 AddOrUpdateClientsWindow.xaml;AddOrUpdateOrderWindow.xaml;AddOrUpdateReviewsWindow.xaml;MainWindow.xaml;
 
 False
