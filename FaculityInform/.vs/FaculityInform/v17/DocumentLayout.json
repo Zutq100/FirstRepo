@@ -3,40 +3,56 @@
   "WorkspaceRootPath": "D:\\Programming\\FirstRepo\\FaculityInform\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|d:\\programming\\firstrepo\\faculityinform\\faculityinform\\efcore\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|solutionrelative:faculityinform\\efcore\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|d:\\programming\\firstrepo\\faculityinform\\faculityinform\\efcore\\models\\groups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|solutionrelative:faculityinform\\efcore\\models\\groups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|d:\\programming\\firstrepo\\faculityinform\\faculityinform\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|solutionrelative:faculityinform\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|d:\\programming\\firstrepo\\faculityinform\\faculityinform\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|solutionrelative:faculityinform\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|d:\\programming\\firstrepo\\faculityinform\\faculityinform\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|solutionrelative:faculityinform\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|d:\\programming\\firstrepo\\faculityinform\\faculityinform\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|solutionrelative:faculityinform\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|d:\\programming\\firstrepo\\faculityinform\\faculityinform\\windows\\addorupdatewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|solutionrelative:faculityinform\\windows\\addorupdatewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|d:\\programming\\firstrepo\\faculityinform\\faculityinform\\windows\\addorupdatewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|solutionrelative:faculityinform\\windows\\addorupdatewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|d:\\programming\\firstrepo\\faculityinform\\faculityinform\\efcore\\models\\compositionofteachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|solutionrelative:faculityinform\\efcore\\models\\compositionofteachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|d:\\programming\\firstrepo\\faculityinform\\faculityinform\\efcore\\context\\configuration\\departamentsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|solutionrelative:faculityinform\\efcore\\context\\configuration\\departamentsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|d:\\programming\\firstrepo\\faculityinform\\faculityinform\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|solutionrelative:faculityinform\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|d:\\programming\\firstrepo\\faculityinform\\faculityinform\\efcore\\models\\groups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|solutionrelative:faculityinform\\efcore\\models\\groups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|d:\\programming\\firstrepo\\faculityinform\\faculityinform\\efcore\\models\\directions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|solutionrelative:faculityinform\\efcore\\models\\directions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|d:\\programming\\firstrepo\\faculityinform\\faculityinform\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|solutionrelative:faculityinform\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|d:\\programming\\firstrepo\\faculityinform\\faculityinform\\efcore\\context\\configuration\\directionsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|solutionrelative:faculityinform\\efcore\\context\\configuration\\directionsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|d:\\programming\\firstrepo\\faculityinform\\faculityinform\\efcore\\models\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|solutionrelative:faculityinform\\efcore\\models\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|d:\\programming\\firstrepo\\faculityinform\\faculityinform\\efcore\\models\\compositionofteachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|solutionrelative:faculityinform\\efcore\\models\\compositionofteachers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|d:\\programming\\firstrepo\\faculityinform\\faculityinform\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|solutionrelative:faculityinform\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|d:\\programming\\firstrepo\\faculityinform\\faculityinform\\efcore\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|solutionrelative:faculityinform\\efcore\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|d:\\programming\\firstrepo\\faculityinform\\faculityinform\\efcore\\context\\faculityinformcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,16 +67,8 @@
       "RelativeMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|solutionrelative:faculityinform\\efcore\\context\\configuration\\studentsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|d:\\programming\\firstrepo\\faculityinform\\faculityinform\\efcore\\context\\configuration\\directionsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|solutionrelative:faculityinform\\efcore\\context\\configuration\\directionsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|d:\\programming\\firstrepo\\faculityinform\\faculityinform\\efcore\\context\\configuration\\compositionofteachersconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|solutionrelative:faculityinform\\efcore\\context\\configuration\\compositionofteachersconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|d:\\programming\\firstrepo\\faculityinform\\faculityinform\\efcore\\context\\configuration\\departamentsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90852585-554B-47EB-9DC0-081039DCB4D8}|FaculityInform\\FaculityInform.csproj|solutionrelative:faculityinform\\efcore\\context\\configuration\\departamentsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,89 +78,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "FaculityInform\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\MainWindow.xaml.cs",
-              "RelativeToolTip": "FaculityInform\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T22:31:34.39Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Groups.cs",
-              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\EFCore\\Models\\Groups.cs",
-              "RelativeDocumentMoniker": "FaculityInform\\EFCore\\Models\\Groups.cs",
-              "ToolTip": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\EFCore\\Models\\Groups.cs",
-              "RelativeToolTip": "FaculityInform\\EFCore\\Models\\Groups.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T22:58:53.66Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Directions.cs",
-              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\EFCore\\Models\\Directions.cs",
-              "RelativeDocumentMoniker": "FaculityInform\\EFCore\\Models\\Directions.cs",
-              "ToolTip": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\EFCore\\Models\\Directions.cs",
-              "RelativeToolTip": "FaculityInform\\EFCore\\Models\\Directions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T23:04:16.23Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\Repository\\Repository.cs",
-              "RelativeDocumentMoniker": "FaculityInform\\Repository\\Repository.cs",
-              "ToolTip": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\Repository\\Repository.cs",
-              "RelativeToolTip": "FaculityInform\\Repository\\Repository.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowCoAAAB0AAAAAAAAAA==",
+              "Title": "AddOrUpdateWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\Windows\\AddOrUpdateWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FaculityInform\\Windows\\AddOrUpdateWindow.xaml.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\Windows\\AddOrUpdateWindow.xaml.cs",
+              "RelativeToolTip": "FaculityInform\\Windows\\AddOrUpdateWindow.xaml.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAD4v5gAAACWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T22:37:46.397Z",
+              "WhenOpened": "2024-12-15T11:13:55.865Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Students.cs",
-              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\EFCore\\Models\\Students.cs",
-              "RelativeDocumentMoniker": "FaculityInform\\EFCore\\Models\\Students.cs",
-              "ToolTip": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\EFCore\\Models\\Students.cs",
-              "RelativeToolTip": "FaculityInform\\EFCore\\Models\\Students.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T23:07:51.71Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\Repository\\IRepository.cs",
-              "RelativeDocumentMoniker": "FaculityInform\\Repository\\IRepository.cs",
-              "ToolTip": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\Repository\\IRepository.cs",
-              "RelativeToolTip": "FaculityInform\\Repository\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T22:37:53.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\MainWindow.xaml",
               "RelativeDocumentMoniker": "FaculityInform\\MainWindow.xaml",
@@ -164,72 +107,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Departments.cs",
-              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\EFCore\\Models\\Departments.cs",
-              "RelativeDocumentMoniker": "FaculityInform\\EFCore\\Models\\Departments.cs",
-              "ToolTip": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\EFCore\\Models\\Departments.cs",
-              "RelativeToolTip": "FaculityInform\\EFCore\\Models\\Departments.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FaculityInform\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\MainWindow.xaml.cs",
+              "RelativeToolTip": "FaculityInform\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAIwJIAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T22:47:41.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CompositionOfTeachers.cs",
-              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\EFCore\\Models\\CompositionOfTeachers.cs",
-              "RelativeDocumentMoniker": "FaculityInform\\EFCore\\Models\\CompositionOfTeachers.cs",
-              "ToolTip": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\EFCore\\Models\\CompositionOfTeachers.cs",
-              "RelativeToolTip": "FaculityInform\\EFCore\\Models\\CompositionOfTeachers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T22:56:28.329Z",
+              "WhenOpened": "2024-12-11T22:31:34.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "FaculityInformContext.cs",
-              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\EFCore\\Context\\FaculityInformContext.cs",
-              "RelativeDocumentMoniker": "FaculityInform\\EFCore\\Context\\FaculityInformContext.cs",
-              "ToolTip": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\EFCore\\Context\\FaculityInformContext.cs",
-              "RelativeToolTip": "FaculityInform\\EFCore\\Context\\FaculityInformContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T22:33:28.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DepartamentsConfiguration.cs",
-              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\EFCore\\Context\\Configuration\\DepartamentsConfiguration.cs",
-              "RelativeDocumentMoniker": "FaculityInform\\EFCore\\Context\\Configuration\\DepartamentsConfiguration.cs",
-              "ToolTip": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\EFCore\\Context\\Configuration\\DepartamentsConfiguration.cs",
-              "RelativeToolTip": "FaculityInform\\EFCore\\Context\\Configuration\\DepartamentsConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T23:09:46.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GroupsConfiguration.cs",
-              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\EFCore\\Context\\Configuration\\GroupsConfiguration.cs",
-              "RelativeDocumentMoniker": "FaculityInform\\EFCore\\Context\\Configuration\\GroupsConfiguration.cs",
-              "ToolTip": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\EFCore\\Context\\Configuration\\GroupsConfiguration.cs",
-              "RelativeToolTip": "FaculityInform\\EFCore\\Context\\Configuration\\GroupsConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T23:11:45.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "DirectionsConfiguration.cs",
               "DocumentMoniker": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\EFCore\\Context\\Configuration\\DirectionsConfiguration.cs",
               "RelativeDocumentMoniker": "FaculityInform\\EFCore\\Context\\Configuration\\DirectionsConfiguration.cs",
@@ -242,7 +133,146 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartamentsConfiguration.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\EFCore\\Context\\Configuration\\DepartamentsConfiguration.cs",
+              "RelativeDocumentMoniker": "FaculityInform\\EFCore\\Context\\Configuration\\DepartamentsConfiguration.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\EFCore\\Context\\Configuration\\DepartamentsConfiguration.cs",
+              "RelativeToolTip": "FaculityInform\\EFCore\\Context\\Configuration\\DepartamentsConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T23:09:46.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompositionOfTeachers.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\EFCore\\Models\\CompositionOfTeachers.cs",
+              "RelativeDocumentMoniker": "FaculityInform\\EFCore\\Models\\CompositionOfTeachers.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\EFCore\\Models\\CompositionOfTeachers.cs",
+              "RelativeToolTip": "FaculityInform\\EFCore\\Models\\CompositionOfTeachers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:56:28.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Students.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\EFCore\\Models\\Students.cs",
+              "RelativeDocumentMoniker": "FaculityInform\\EFCore\\Models\\Students.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\EFCore\\Models\\Students.cs",
+              "RelativeToolTip": "FaculityInform\\EFCore\\Models\\Students.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T23:07:51.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "FaculityInform\\Repository\\Repository.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\Repository\\Repository.cs",
+              "RelativeToolTip": "FaculityInform\\Repository\\Repository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAewC8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:37:46.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddOrUpdateWindow.xaml",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\Windows\\AddOrUpdateWindow.xaml",
+              "RelativeDocumentMoniker": "FaculityInform\\Windows\\AddOrUpdateWindow.xaml",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\Windows\\AddOrUpdateWindow.xaml",
+              "RelativeToolTip": "FaculityInform\\Windows\\AddOrUpdateWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-15T11:12:04.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Departments.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\EFCore\\Models\\Departments.cs",
+              "RelativeDocumentMoniker": "FaculityInform\\EFCore\\Models\\Departments.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\EFCore\\Models\\Departments.cs",
+              "RelativeToolTip": "FaculityInform\\EFCore\\Models\\Departments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:47:41.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Groups.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\EFCore\\Models\\Groups.cs",
+              "RelativeDocumentMoniker": "FaculityInform\\EFCore\\Models\\Groups.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\EFCore\\Models\\Groups.cs",
+              "RelativeToolTip": "FaculityInform\\EFCore\\Models\\Groups.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:58:53.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Directions.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\EFCore\\Models\\Directions.cs",
+              "RelativeDocumentMoniker": "FaculityInform\\EFCore\\Models\\Directions.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\EFCore\\Models\\Directions.cs",
+              "RelativeToolTip": "FaculityInform\\EFCore\\Models\\Directions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T23:04:16.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "FaculityInform\\Repository\\IRepository.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\Repository\\IRepository.cs",
+              "RelativeToolTip": "FaculityInform\\Repository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:37:53.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FaculityInformContext.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\EFCore\\Context\\FaculityInformContext.cs",
+              "RelativeDocumentMoniker": "FaculityInform\\EFCore\\Context\\FaculityInformContext.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\EFCore\\Context\\FaculityInformContext.cs",
+              "RelativeToolTip": "FaculityInform\\EFCore\\Context\\FaculityInformContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T22:33:28.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GroupsConfiguration.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\EFCore\\Context\\Configuration\\GroupsConfiguration.cs",
+              "RelativeDocumentMoniker": "FaculityInform\\EFCore\\Context\\Configuration\\GroupsConfiguration.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\EFCore\\Context\\Configuration\\GroupsConfiguration.cs",
+              "RelativeToolTip": "FaculityInform\\EFCore\\Context\\Configuration\\GroupsConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T23:11:45.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "StudentsConfiguration.cs",
               "DocumentMoniker": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\EFCore\\Context\\Configuration\\StudentsConfiguration.cs",
               "RelativeDocumentMoniker": "FaculityInform\\EFCore\\Context\\Configuration\\StudentsConfiguration.cs",
@@ -250,12 +280,11 @@
               "RelativeToolTip": "FaculityInform\\EFCore\\Context\\Configuration\\StudentsConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T23:11:55.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T23:11:55.252Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "CompositionOfTeachersConfiguration.cs",
               "DocumentMoniker": "D:\\Programming\\FirstRepo\\FaculityInform\\FaculityInform\\EFCore\\Context\\Configuration\\CompositionOfTeachersConfiguration.cs",
               "RelativeDocumentMoniker": "FaculityInform\\EFCore\\Context\\Configuration\\CompositionOfTeachersConfiguration.cs",
@@ -263,8 +292,7 @@
               "RelativeToolTip": "FaculityInform\\EFCore\\Context\\Configuration\\CompositionOfTeachersConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T23:09:22.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T23:09:22.05Z"
             }
           ]
         }

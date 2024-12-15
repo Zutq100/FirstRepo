@@ -6,10 +6,12 @@ namespace FaculityInform.Repository
     class Repository<TModel> : IRepository<TModel> where TModel : class
     {
         private FaculityInformContext _context;
+
         public Repository()
         {
             _context = new FaculityInformContext();
         }
+
         public void Create(TModel value)
         {
             _context.Set<TModel>().Add(value);
@@ -23,12 +25,15 @@ namespace FaculityInform.Repository
         }
 
         public List<TModel> GetAll() => _context.Set<TModel>().ToList();
+
         public void Update(TModel value)
         {
             _context.Update(value);
             _context.SaveChanges();
         }
+
         public TModel Get(int id) => _context.Set<TModel>().Find(id);
+
         public List<TModel> GetAll(List<string> includes)
         {
             var set = _context.Set<TModel>().AsQueryable();

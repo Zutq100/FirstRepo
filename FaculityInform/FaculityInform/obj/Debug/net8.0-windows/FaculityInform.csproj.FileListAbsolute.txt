@@ -65,3 +65,5 @@ D:\Programming\FirstRepo\FaculityInform\FaculityInform\obj\Debug\net8.0-windows\
 D:\Programming\FirstRepo\FaculityInform\FaculityInform\obj\Debug\net8.0-windows\FaculityInform.pdb
 D:\Programming\FirstRepo\FaculityInform\FaculityInform\obj\Debug\net8.0-windows\FaculityInform.genruntimeconfig.cache
 D:\Programming\FirstRepo\FaculityInform\FaculityInform\obj\Debug\net8.0-windows\ref\FaculityInform.dll
+D:\Programming\FirstRepo\FaculityInform\FaculityInform\obj\Debug\net8.0-windows\Windows\AddOrUpdateWindow.g.cs
+D:\Programming\FirstRepo\FaculityInform\FaculityInform\obj\Debug\net8.0-windows\Windows\AddOrUpdateWindow.baml

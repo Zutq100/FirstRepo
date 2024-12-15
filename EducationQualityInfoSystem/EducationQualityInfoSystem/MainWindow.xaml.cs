@@ -149,5 +149,8 @@ namespace EducationQualityInfoSystem
 
             repoMain.Update(student);
         }
+
+        private void Window_IsVisibleChanged(object sender, DependencyPropertyChangedEventArgs e)
+            => cmbSelectTable_SelectionChanged(null, null);
     }
 }

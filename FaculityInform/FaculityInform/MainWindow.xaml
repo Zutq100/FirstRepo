@@ -5,8 +5,31 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:FaculityInform"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Информационная система" Height="450" Width="800" ResizeMode="NoResize" IsVisibleChanged="Window_IsVisibleChanged">
     <Grid>
-        <ListBox Name="lbText"/>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25"/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <ListBox BorderBrush="Black" BorderThickness="1" Name="lbText" Grid.RowSpan="2" Grid.Row="1" Grid.ColumnSpan="3" Background="Aquamarine"/>
+        <Menu Grid.ColumnSpan="3" Background="MediumAquamarine">
+            <MenuItem Header="Создать" Width="60" Name="miCreate" Click="miCreate_Click"/>
+            <MenuItem Header="Изменить" Width="65" Name="miUpdate" Click="miUpdate_Click"/>
+            <MenuItem Header="Удалить" Width="60" Name="miDelete" Click="miDelete_Click"/>
+            <ComboBox Width="75" Name="cmbSelectTable" SelectionChanged="cmbSelectTable_SelectionChanged" Background="Aquamarine">
+                <ComboBoxItem Content="Студенты"/>
+                <ComboBoxItem Content="Группы"/>
+                <ComboBoxItem Content="Направления"/>
+                <ComboBoxItem Content="Кафедры"/>
+                <ComboBoxItem Content="Состав преподавателей"/>
+            </ComboBox>
+            <TextBox TextChanged="tbSearch_TextChanged" Background="Aquamarine" Width="485" Name="tbSearch" />
+        </Menu>
     </Grid>
 </Window>

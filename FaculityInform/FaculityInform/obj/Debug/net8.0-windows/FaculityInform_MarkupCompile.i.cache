@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 D:\Programming\FirstRepo\FaculityInform\FaculityInform\App.xaml
-11407045341
+2-12183714
 
-191472655095
+20-1653219594
 217-199899276
-MainWindow.xaml;
+MainWindow.xaml;Windows\AddOrUpdateWindow.xaml;
 
-False
+True
 

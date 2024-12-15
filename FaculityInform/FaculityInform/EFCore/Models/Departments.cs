@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FaculityInform.EFCore.Models
 {
-    class Departments
+    public class Departments
     {
         public int Id { get; set; }
         public string Title { get; set; }
@@ -14,6 +14,6 @@ namespace FaculityInform.EFCore.Models
         public List<CompositionOfTeachers> CompositionOfTeachers { get; set; }
 
         public override string ToString()
-            => "";
+            => $"Название кафедры - {Title}";
     }
 }
