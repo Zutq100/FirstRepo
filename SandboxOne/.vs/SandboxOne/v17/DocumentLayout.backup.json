@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\FirstRepo\\SandboxOne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{961058DD-2D0A-413B-ADEE-542866317174}|SandboxOne.csproj|d:\\programming\\firstrepo\\sandboxone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961058DD-2D0A-413B-ADEE-542866317174}|SandboxOne.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E43ABA1-2E33-403F-88CF-F22DD2988A1B}|..\\Second\\Second.csproj|d:\\programming\\firstrepo\\second\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E0496A-9754-4588-8C96-FB6BFD89165B}|..\\Third\\Third.csproj|d:\\programming\\firstrepo\\third\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31E0496A-9754-4588-8C96-FB6BFD89165B}|..\\Third\\Third.csproj|d:\\programming\\firstrepo\\third\\third.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D30AC32-4E91-424E-8B25-8113F81B4A64}|..\\Four\\Four.csproj|d:\\programming\\firstrepo\\four\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E43ABA1-2E33-403F-88CF-F22DD2988A1B}|..\\Second\\Second.csproj|d:\\programming\\firstrepo\\second\\second.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961058DD-2D0A-413B-ADEE-542866317174}|SandboxOne.csproj|d:\\programming\\firstrepo\\sandboxone\\sandboxone.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{961058DD-2D0A-413B-ADEE-542866317174}|SandboxOne.csproj|solutionrelative:sandboxone.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Third",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\Third\\Third.csproj",
+              "RelativeDocumentMoniker": "..\\Third\\Third.csproj",
+              "ToolTip": "D:\\Programming\\FirstRepo\\Third\\Third.csproj",
+              "RelativeToolTip": "..\\Third\\Third.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-05T14:21:53.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Second",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\Second\\Second.csproj",
+              "RelativeDocumentMoniker": "..\\Second\\Second.csproj",
+              "ToolTip": "D:\\Programming\\FirstRepo\\Second\\Second.csproj",
+              "RelativeToolTip": "..\\Second\\Second.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-05T13:36:11.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\Four\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Four\\Program.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\Four\\Program.cs",
+              "RelativeToolTip": "..\\Four\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T13:33:12.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\Third\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Third\\Program.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\Third\\Program.cs",
+              "RelativeToolTip": "..\\Third\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T13:25:05.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SandboxOne",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\SandboxOne\\SandboxOne.csproj",
+              "RelativeDocumentMoniker": "SandboxOne.csproj",
+              "ToolTip": "D:\\Programming\\FirstRepo\\SandboxOne\\SandboxOne.csproj",
+              "RelativeToolTip": "SandboxOne.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-05T13:20:00.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\Second\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Second\\Program.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\Second\\Program.cs",
+              "RelativeToolTip": "..\\Second\\Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwDoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T12:36:21.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\SandboxOne\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\SandboxOne\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:41:50.056Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

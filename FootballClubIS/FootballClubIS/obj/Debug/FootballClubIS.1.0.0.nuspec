@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>FootballClubIS</id>
+    <version>1.0.0</version>
+    <authors>FootballClubIS</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="08f2402b51e1d97b5ca34760fc7c1bddabc0e407" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0">
+        <dependency id="Microsoft.EntityFrameworkCore" version="9.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.Sqlite" version="9.0.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\Programming\FirstRepo\FootballClubIS\FootballClubIS\bin\Debug\net8.0-windows\FootballClubIS.runtimeconfig.json" target="lib\net8.0-windows7.0\FootballClubIS.runtimeconfig.json" />
+    <file src="D:\Programming\FirstRepo\FootballClubIS\FootballClubIS\bin\Debug\net8.0-windows\FootballClubIS.dll" target="lib\net8.0-windows7.0\FootballClubIS.dll" />
+  </files>
+</package>

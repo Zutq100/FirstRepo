@@ -15,13 +15,11 @@ namespace FaculityInform.Repository
         public void Create(TModel value)
         {
             _context.Set<TModel>().Add(value);
-            _context.SaveChanges();
         }
 
         public void Delete(int id)
         {
             _context.Set<TModel>().Remove(_context.Set<TModel>().Find(id));
-            _context.SaveChanges();
         }
 
         public List<TModel> GetAll() => _context.Set<TModel>().ToList();
@@ -29,7 +27,6 @@ namespace FaculityInform.Repository
         public void Update(TModel value)
         {
             _context.Update(value);
-            _context.SaveChanges();
         }
 
         public TModel Get(int id) => _context.Set<TModel>().Find(id);

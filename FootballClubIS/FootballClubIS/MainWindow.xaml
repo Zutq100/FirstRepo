@@ -1,0 +1,31 @@
+﻿<Window x:Class="FootballClubIS.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FootballClubIS"
+        mc:Ignorable="d"
+        Title="Информационная система футбольного клуба" Height="450" Width="800" ResizeMode="NoResize">
+    <Grid>
+        <Grid Background="#FF28AEDC">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition Height="50"/>
+            </Grid.RowDefinitions>
+            <TextBlock Height="50" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,25" Text="ФК Челси" FontSize="25" FontWeight="ExtraBold" Foreground="GhostWhite"/>
+            <Label Grid.Column="1" VerticalAlignment="Top" Content="Выберите таблицу" HorizontalAlignment="Center"  FontSize="25" FontWeight="ExtraBold" Foreground="GhostWhite"/>
+            <ComboBox Grid.Column="1" Height="50" Width="200" VerticalAlignment="Top" Margin="0,45" RenderTransformOrigin="1,1">
+                <ComboBoxItem Content="Футболисты клуба" Name="cmbPageFirst" Selected="cmbPageFirst_Selected"/>
+                <ComboBoxItem Content="Состав команды" Name="cmbPageSecond" Selected="cmbPageSecond_Selected"/>
+                <ComboBoxItem Content="Достижения клуба" Name="cmbPageThird" Selected="cmbPageThird_Selected"/>
+            </ComboBox>
+            <TextBlock Text="Английский профессиональный футбольный клуб из Фулема на юго-западе Лондона. Выступает в английской Премьер-лиге, высшем дивизионе в системе футбольных лиг Англии. Основан в 1905 году. Провёл бо́льшую часть своей истории в высшем дивизионе английского футбола. Один из наиболее титулованных клубов страны. Один из клубов-основателей английской Премьер-лиги в 1992 году. «Челси» шесть раз становился чемпионом Англии, восемь раз выигрывал Кубок Англии и пять раз Кубок Английской футбольной лиги. Клуб дважды выигрывал Лигу чемпионов УЕФА, Кубок обладателей кубков УЕФА, Лигу Европы УЕФА и Суперкубок УЕФА. «Челси» — единственный клуб, который выиграл три главных клубных турнира УЕФА дважды, а также единственный клуб, владевшим двумя еврокубками одновременно." TextWrapping="Wrap" Grid.Row="0" Grid.Column="1" VerticalAlignment="Bottom" Grid.RowSpan="2" Foreground="GhostWhite" FontSize="14" Margin="10,10"/>
+            <Button Grid.Row="1" Width="150" HorizontalAlignment="Center" Name="btnCancel" Background="#FF28AEDC" Content="Закрыть" FontSize="20" FontWeight="Heavy" Foreground="GhostWhite" BorderThickness="0" Margin="0,5" Click="btnCancel_Click"/>
+            <Image x:Name="chelsea" Source="/Data/Pictures/chelsea.jpg" Margin="76,84,76,83"/>
+        </Grid>
+    </Grid>
+</Window>

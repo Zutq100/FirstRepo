@@ -1,0 +1,15 @@
+D:\Programming\FirstRepo\Third\bin\Debug\net8.0\Third.exe
+D:\Programming\FirstRepo\Third\bin\Debug\net8.0\Third.deps.json
+D:\Programming\FirstRepo\Third\bin\Debug\net8.0\Third.runtimeconfig.json
+D:\Programming\FirstRepo\Third\bin\Debug\net8.0\Third.dll
+D:\Programming\FirstRepo\Third\bin\Debug\net8.0\Third.pdb
+D:\Programming\FirstRepo\Third\obj\Debug\net8.0\Third.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\FirstRepo\Third\obj\Debug\net8.0\Third.AssemblyInfoInputs.cache
+D:\Programming\FirstRepo\Third\obj\Debug\net8.0\Third.AssemblyInfo.cs
+D:\Programming\FirstRepo\Third\obj\Debug\net8.0\Third.csproj.CoreCompileInputs.cache
+D:\Programming\FirstRepo\Third\obj\Debug\net8.0\Third.sourcelink.json
+D:\Programming\FirstRepo\Third\obj\Debug\net8.0\Third.dll
+D:\Programming\FirstRepo\Third\obj\Debug\net8.0\refint\Third.dll
+D:\Programming\FirstRepo\Third\obj\Debug\net8.0\Third.pdb
+D:\Programming\FirstRepo\Third\obj\Debug\net8.0\Third.genruntimeconfig.cache
+D:\Programming\FirstRepo\Third\obj\Debug\net8.0\ref\Third.dll

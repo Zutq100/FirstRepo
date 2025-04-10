@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "NewsApi.Controllers.NewsController",
+    "Method": "GetVowelCount",
+    "RelativePath": "api/News/vowelcount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "keyword",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "section",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "language",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

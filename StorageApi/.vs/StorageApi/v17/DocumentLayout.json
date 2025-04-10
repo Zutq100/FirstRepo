@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\FirstRepo\\StorageApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C4B637-BB2B-4E3C-B0DF-CB0A7855FF30}|StorageApi.csproj|d:\\programming\\firstrepo\\storageapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C4B637-BB2B-4E3C-B0DF-CB0A7855FF30}|StorageApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C4B637-BB2B-4E3C-B0DF-CB0A7855FF30}|StorageApi.csproj|d:\\programming\\firstrepo\\storageapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E4C4B637-BB2B-4E3C-B0DF-CB0A7855FF30}|StorageApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C4B637-BB2B-4E3C-B0DF-CB0A7855FF30}|StorageApi.csproj|d:\\programming\\firstrepo\\storageapi\\properties\\efcore\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4C4B637-BB2B-4E3C-B0DF-CB0A7855FF30}|StorageApi.csproj|solutionrelative:properties\\efcore\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageApi\\Properties\\EFCore\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Properties\\EFCore\\AppDbContext.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\StorageApi\\Properties\\EFCore\\AppDbContext.cs",
+              "RelativeToolTip": "Properties\\EFCore\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T12:54:04.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\StorageApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T12:47:17.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Programming\\FirstRepo\\StorageApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T12:46:28.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "Default",
+    "Projects": [
+      {
+        "Path": "..\\StorageApi\\StorageApi.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Path": "StorageWPF\\StorageWPF.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

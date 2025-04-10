@@ -12,7 +12,7 @@ namespace FaculityInform.EFCore.Models
         public string Title { get; set; }
         public string GroupCode { get; set; }
         public string Profile { get; set; }
-        public int DepartmentId { get; set; }
+        public int DepartmeId { get; set; }
         public Departments Department { get; set; }
         public List<Groups> Groups { get; set; }
 

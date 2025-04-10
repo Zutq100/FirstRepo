@@ -1,0 +1,15 @@
+D:\Programming\FirstRepo\Second\bin\Debug\net8.0\Second.exe
+D:\Programming\FirstRepo\Second\bin\Debug\net8.0\Second.deps.json
+D:\Programming\FirstRepo\Second\bin\Debug\net8.0\Second.runtimeconfig.json
+D:\Programming\FirstRepo\Second\bin\Debug\net8.0\Second.dll
+D:\Programming\FirstRepo\Second\bin\Debug\net8.0\Second.pdb
+D:\Programming\FirstRepo\Second\obj\Debug\net8.0\Second.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\FirstRepo\Second\obj\Debug\net8.0\Second.AssemblyInfoInputs.cache
+D:\Programming\FirstRepo\Second\obj\Debug\net8.0\Second.AssemblyInfo.cs
+D:\Programming\FirstRepo\Second\obj\Debug\net8.0\Second.csproj.CoreCompileInputs.cache
+D:\Programming\FirstRepo\Second\obj\Debug\net8.0\Second.sourcelink.json
+D:\Programming\FirstRepo\Second\obj\Debug\net8.0\Second.dll
+D:\Programming\FirstRepo\Second\obj\Debug\net8.0\refint\Second.dll
+D:\Programming\FirstRepo\Second\obj\Debug\net8.0\Second.pdb
+D:\Programming\FirstRepo\Second\obj\Debug\net8.0\Second.genruntimeconfig.cache
+D:\Programming\FirstRepo\Second\obj\Debug\net8.0\ref\Second.dll

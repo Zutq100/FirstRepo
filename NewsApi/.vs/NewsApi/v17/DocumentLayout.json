@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\FirstRepo\\NewsApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D100F38-2D3B-4C26-9D35-CCDAF37FB283}|NewsApi\\NewsApi.csproj|d:\\programming\\firstrepo\\newsapi\\newsapi\\services\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D100F38-2D3B-4C26-9D35-CCDAF37FB283}|NewsApi\\NewsApi.csproj|solutionrelative:newsapi\\services\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D100F38-2D3B-4C26-9D35-CCDAF37FB283}|NewsApi\\NewsApi.csproj|d:\\programming\\firstrepo\\newsapi\\newsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D100F38-2D3B-4C26-9D35-CCDAF37FB283}|NewsApi\\NewsApi.csproj|solutionrelative:newsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D100F38-2D3B-4C26-9D35-CCDAF37FB283}|NewsApi\\NewsApi.csproj|d:\\programming\\firstrepo\\newsapi\\newsapi\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D100F38-2D3B-4C26-9D35-CCDAF37FB283}|NewsApi\\NewsApi.csproj|solutionrelative:newsapi\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D100F38-2D3B-4C26-9D35-CCDAF37FB283}|NewsApi\\NewsApi.csproj|d:\\programming\\firstrepo\\newsapi\\newsapi\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D100F38-2D3B-4C26-9D35-CCDAF37FB283}|NewsApi\\NewsApi.csproj|solutionrelative:newsapi\\models\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D100F38-2D3B-4C26-9D35-CCDAF37FB283}|NewsApi\\NewsApi.csproj|d:\\programming\\firstrepo\\newsapi\\newsapi\\models\\newsvowelcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D100F38-2D3B-4C26-9D35-CCDAF37FB283}|NewsApi\\NewsApi.csproj|solutionrelative:newsapi\\models\\newsvowelcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D100F38-2D3B-4C26-9D35-CCDAF37FB283}|NewsApi\\NewsApi.csproj|d:\\programming\\firstrepo\\newsapi\\newsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D100F38-2D3B-4C26-9D35-CCDAF37FB283}|NewsApi\\NewsApi.csproj|solutionrelative:newsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\NewsApi\\NewsApi\\appsettings.json",
+              "RelativeDocumentMoniker": "NewsApi\\appsettings.json",
+              "ToolTip": "D:\\Programming\\FirstRepo\\NewsApi\\NewsApi\\appsettings.json",
+              "RelativeToolTip": "NewsApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T00:47:22.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\NewsApi\\NewsApi\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "NewsApi\\Controllers\\NewsController.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\NewsApi\\NewsApi\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "NewsApi\\Controllers\\NewsController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T00:21:18.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewsService.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\NewsApi\\NewsApi\\Services\\NewsService.cs",
+              "RelativeDocumentMoniker": "NewsApi\\Services\\NewsService.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\NewsApi\\NewsApi\\Services\\NewsService.cs",
+              "RelativeToolTip": "NewsApi\\Services\\NewsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T23:44:16.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewsVowelCount.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\NewsApi\\NewsApi\\Models\\NewsVowelCount.cs",
+              "RelativeDocumentMoniker": "NewsApi\\Models\\NewsVowelCount.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\NewsApi\\NewsApi\\Models\\NewsVowelCount.cs",
+              "RelativeToolTip": "NewsApi\\Models\\NewsVowelCount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T23:43:19.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "News.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\NewsApi\\NewsApi\\Models\\News.cs",
+              "RelativeDocumentMoniker": "NewsApi\\Models\\News.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\NewsApi\\NewsApi\\Models\\News.cs",
+              "RelativeToolTip": "NewsApi\\Models\\News.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T23:38:43.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\NewsApi\\NewsApi\\Program.cs",
+              "RelativeDocumentMoniker": "NewsApi\\Program.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\NewsApi\\NewsApi\\Program.cs",
+              "RelativeToolTip": "NewsApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T23:35:15.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -8,6 +8,7 @@ namespace FaculityInform.EFCore.Context
     {
         public FaculityInformContext()
         {
+            Database.EnsureDeleted();
             Database.EnsureCreated();
         }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)

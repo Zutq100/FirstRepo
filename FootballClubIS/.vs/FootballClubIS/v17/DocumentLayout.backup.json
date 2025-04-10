@@ -1,0 +1,517 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\FirstRepo\\FootballClubIS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|d:\\programming\\firstrepo\\footballclubis\\footballclubis\\footballclubis.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|solutionrelative:footballclubis\\footballclubis.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|d:\\programming\\firstrepo\\footballclubis\\footballclubis\\context\\footballclubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|solutionrelative:footballclubis\\context\\footballclubcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\doski\\AppData\\Local\\Temp\\.vsdbgsrc\\2427b4759c2e050d20dccdd5ab42b329148ba9271b0198d6e81a2f6dfbb4a6d8\\SqliteException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|d:\\programming\\firstrepo\\footballclubis\\footballclubis\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|solutionrelative:footballclubis\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|d:\\programming\\firstrepo\\footballclubis\\footballclubis\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|solutionrelative:footballclubis\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|d:\\programming\\firstrepo\\footballclubis\\footballclubis\\footballclubis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|solutionrelative:footballclubis\\footballclubis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|d:\\programming\\firstrepo\\footballclubis\\footballclubis\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|solutionrelative:footballclubis\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|d:\\programming\\firstrepo\\footballclubis\\footballclubis\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|solutionrelative:footballclubis\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\obj\\Debug\\net9.0-windows7.0\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FootballClubIS\\obj\\Debug\\net9.0-windows7.0\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|d:\\programming\\firstrepo\\footballclubis\\footballclubis\\windows\\footballteamtablewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|solutionrelative:footballclubis\\windows\\footballteamtablewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|d:\\programming\\firstrepo\\footballclubis\\footballclubis\\windows\\achivementstablewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|solutionrelative:footballclubis\\windows\\achivementstablewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|d:\\programming\\firstrepo\\footballclubis\\footballclubis\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|solutionrelative:footballclubis\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|d:\\programming\\firstrepo\\footballclubis\\footballclubis\\models\\footballteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|solutionrelative:footballclubis\\models\\footballteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|d:\\programming\\firstrepo\\footballclubis\\footballclubis\\windows\\playerstablewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|solutionrelative:footballclubis\\windows\\playerstablewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\obj\\Debug\\net8.0-windows7.0\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FootballClubIS\\obj\\Debug\\net8.0-windows7.0\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|d:\\programming\\firstrepo\\footballclubis\\footballclubis\\windows\\addorupdatewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|solutionrelative:footballclubis\\windows\\addorupdatewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|d:\\programming\\firstrepo\\footballclubis\\footballclubis\\windows\\addorupdatewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|solutionrelative:footballclubis\\windows\\addorupdatewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\obj\\Debug\\net8.0-windows\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FootballClubIS\\obj\\Debug\\net8.0-windows\\App.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|d:\\programming\\firstrepo\\footballclubis\\footballclubis\\models\\players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|solutionrelative:footballclubis\\models\\players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|d:\\programming\\firstrepo\\footballclubis\\footballclubis\\windows\\playerstablewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|solutionrelative:footballclubis\\windows\\playerstablewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|d:\\programming\\firstrepo\\footballclubis\\footballclubis\\context\\configuration\\achievementsfootballclubconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|solutionrelative:footballclubis\\context\\configuration\\achievementsfootballclubconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|d:\\programming\\firstrepo\\footballclubis\\footballclubis\\models\\achievementsfootballclub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|solutionrelative:footballclubis\\models\\achievementsfootballclub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|d:\\programming\\firstrepo\\footballclubis\\footballclubis\\models\\typeteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|solutionrelative:footballclubis\\models\\typeteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|d:\\programming\\firstrepo\\footballclubis\\footballclubis\\windows\\achivementstablewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|solutionrelative:footballclubis\\windows\\achivementstablewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|d:\\programming\\firstrepo\\footballclubis\\footballclubis\\windows\\footballteamtablewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|solutionrelative:footballclubis\\windows\\footballteamtablewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|d:\\programming\\firstrepo\\footballclubis\\footballclubis\\context\\configuration\\footballteamconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|solutionrelative:footballclubis\\context\\configuration\\footballteamconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|d:\\programming\\firstrepo\\footballclubis\\footballclubis\\context\\configuration\\playersconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|solutionrelative:footballclubis\\context\\configuration\\playersconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|d:\\programming\\firstrepo\\footballclubis\\footballclubis\\context\\configuration\\typeteamconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|solutionrelative:footballclubis\\context\\configuration\\typeteamconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|d:\\programming\\firstrepo\\footballclubis\\footballclubis\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E7CC1F3-4873-4165-897F-0049421ED8BC}|FootballClubIS\\FootballClubIS.csproj|solutionrelative:footballclubis\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\doski\\AppData\\Local\\Temp\\.vsdbgsrc\\7c39dede8d7ebdfdbdef9df41f0b1ca336835c2b40460aff1aa804187805538a\\NavigationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FootballClubContext.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\Context\\FootballClubContext.cs",
+              "RelativeDocumentMoniker": "FootballClubIS\\Context\\FootballClubContext.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\Context\\FootballClubContext.cs",
+              "RelativeToolTip": "FootballClubIS\\Context\\FootballClubContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T18:43:20.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PlayersTableWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\Windows\\PlayersTableWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FootballClubIS\\Windows\\PlayersTableWindow.xaml.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\Windows\\PlayersTableWindow.xaml.cs",
+              "RelativeToolTip": "FootballClubIS\\Windows\\PlayersTableWindow.xaml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:05:06.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\App.xaml",
+              "RelativeDocumentMoniker": "FootballClubIS\\App.xaml",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\App.xaml",
+              "RelativeToolTip": "FootballClubIS\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-21T19:22:58.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "FootballClubIS\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\Repositories\\Repository.cs",
+              "RelativeToolTip": "FootballClubIS\\Repositories\\Repository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAlwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T19:01:20.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlayersTableWindow.xaml",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\Windows\\PlayersTableWindow.xaml",
+              "RelativeDocumentMoniker": "FootballClubIS\\Windows\\PlayersTableWindow.xaml",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\Windows\\PlayersTableWindow.xaml",
+              "RelativeToolTip": "FootballClubIS\\Windows\\PlayersTableWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-23T12:00:17.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FootballClubIS.csproj",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\FootballClubIS.csproj",
+              "RelativeDocumentMoniker": "FootballClubIS\\FootballClubIS.csproj",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\FootballClubIS.csproj",
+              "RelativeToolTip": "FootballClubIS\\FootballClubIS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-21T18:39:57.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FootballClubIS\\MainWindow.xaml",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\MainWindow.xaml",
+              "RelativeToolTip": "FootballClubIS\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-24T12:35:22.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FootballClubIS",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\FootballClubIS.csproj",
+              "RelativeDocumentMoniker": "FootballClubIS\\FootballClubIS.csproj",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\FootballClubIS.csproj",
+              "RelativeToolTip": "FootballClubIS\\FootballClubIS.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-27T20:20:44.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SqliteException.cs",
+              "DocumentMoniker": "C:\\Users\\doski\\AppData\\Local\\Temp\\.vsdbgsrc\\2427b4759c2e050d20dccdd5ab42b329148ba9271b0198d6e81a2f6dfbb4a6d8\\SqliteException.cs",
+              "ToolTip": "C:\\Users\\doski\\AppData\\Local\\Temp\\.vsdbgsrc\\2427b4759c2e050d20dccdd5ab42b329148ba9271b0198d6e81a2f6dfbb4a6d8\\SqliteException.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAABMAAAAAAAAAAAAWwCoAAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T20:42:51.466Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\App.xaml.cs",
+              "RelativeDocumentMoniker": "FootballClubIS\\App.xaml.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\App.xaml.cs",
+              "RelativeToolTip": "FootballClubIS\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T19:23:01.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FootballTeam.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\Models\\FootballTeam.cs",
+              "RelativeDocumentMoniker": "FootballClubIS\\Models\\FootballTeam.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\Models\\FootballTeam.cs",
+              "RelativeToolTip": "FootballClubIS\\Models\\FootballTeam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T18:59:30.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FootballTeamTableWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\Windows\\FootballTeamTableWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FootballClubIS\\Windows\\FootballTeamTableWindow.xaml.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\Windows\\FootballTeamTableWindow.xaml.cs",
+              "RelativeToolTip": "FootballClubIS\\Windows\\FootballTeamTableWindow.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwBwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:07:06.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AchivementsTableWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\Windows\\AchivementsTableWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FootballClubIS\\Windows\\AchivementsTableWindow.xaml.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\Windows\\AchivementsTableWindow.xaml.cs",
+              "RelativeToolTip": "FootballClubIS\\Windows\\AchivementsTableWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:07:55.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FootballClubIS\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\MainWindow.xaml.cs",
+              "RelativeToolTip": "FootballClubIS\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T12:22:22.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.g.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\obj\\Debug\\net9.0-windows7.0\\App.g.cs",
+              "RelativeDocumentMoniker": "FootballClubIS\\obj\\Debug\\net9.0-windows7.0\\App.g.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\obj\\Debug\\net9.0-windows7.0\\App.g.cs",
+              "RelativeToolTip": "FootballClubIS\\obj\\Debug\\net9.0-windows7.0\\App.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T20:40:04.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddOrUpdateWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\Windows\\AddOrUpdateWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FootballClubIS\\Windows\\AddOrUpdateWindow.xaml.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\Windows\\AddOrUpdateWindow.xaml.cs",
+              "RelativeToolTip": "FootballClubIS\\Windows\\AddOrUpdateWindow.xaml.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAcwG8AAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T18:03:04.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.g.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\obj\\Debug\\net8.0-windows7.0\\App.g.cs",
+              "RelativeDocumentMoniker": "FootballClubIS\\obj\\Debug\\net8.0-windows7.0\\App.g.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\obj\\Debug\\net8.0-windows7.0\\App.g.cs",
+              "RelativeToolTip": "FootballClubIS\\obj\\Debug\\net8.0-windows7.0\\App.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T20:26:15.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddOrUpdateWindow.xaml",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\Windows\\AddOrUpdateWindow.xaml",
+              "RelativeDocumentMoniker": "FootballClubIS\\Windows\\AddOrUpdateWindow.xaml",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\Windows\\AddOrUpdateWindow.xaml",
+              "RelativeToolTip": "FootballClubIS\\Windows\\AddOrUpdateWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-24T17:58:30.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Players.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\Models\\Players.cs",
+              "RelativeDocumentMoniker": "FootballClubIS\\Models\\Players.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\Models\\Players.cs",
+              "RelativeToolTip": "FootballClubIS\\Models\\Players.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T18:36:20.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.g.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\obj\\Debug\\net8.0-windows\\App.g.cs",
+              "RelativeDocumentMoniker": "FootballClubIS\\obj\\Debug\\net8.0-windows\\App.g.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\obj\\Debug\\net8.0-windows\\App.g.cs",
+              "RelativeToolTip": "FootballClubIS\\obj\\Debug\\net8.0-windows\\App.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T11:37:08.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AchievementsFootballClubConfiguration.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\Context\\Configuration\\AchievementsFootballClubConfiguration.cs",
+              "RelativeDocumentMoniker": "FootballClubIS\\Context\\Configuration\\AchievementsFootballClubConfiguration.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\Context\\Configuration\\AchievementsFootballClubConfiguration.cs",
+              "RelativeToolTip": "FootballClubIS\\Context\\Configuration\\AchievementsFootballClubConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:53:06.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AchievementsFootballClub.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\Models\\AchievementsFootballClub.cs",
+              "RelativeDocumentMoniker": "FootballClubIS\\Models\\AchievementsFootballClub.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\Models\\AchievementsFootballClub.cs",
+              "RelativeToolTip": "FootballClubIS\\Models\\AchievementsFootballClub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T18:34:33.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TypeTeam.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\Models\\TypeTeam.cs",
+              "RelativeDocumentMoniker": "FootballClubIS\\Models\\TypeTeam.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\Models\\TypeTeam.cs",
+              "RelativeToolTip": "FootballClubIS\\Models\\TypeTeam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T18:59:45.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FootballTeamTableWindow.xaml",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\Windows\\FootballTeamTableWindow.xaml",
+              "RelativeDocumentMoniker": "FootballClubIS\\Windows\\FootballTeamTableWindow.xaml",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\Windows\\FootballTeamTableWindow.xaml",
+              "RelativeToolTip": "FootballClubIS\\Windows\\FootballTeamTableWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-24T18:03:03.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AchivementsTableWindow.xaml",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\Windows\\AchivementsTableWindow.xaml",
+              "RelativeDocumentMoniker": "FootballClubIS\\Windows\\AchivementsTableWindow.xaml",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\Windows\\AchivementsTableWindow.xaml",
+              "RelativeToolTip": "FootballClubIS\\Windows\\AchivementsTableWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-23T11:58:10.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FootballTeamConfiguration.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\Context\\Configuration\\FootballTeamConfiguration.cs",
+              "RelativeDocumentMoniker": "FootballClubIS\\Context\\Configuration\\FootballTeamConfiguration.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\Context\\Configuration\\FootballTeamConfiguration.cs",
+              "RelativeToolTip": "FootballClubIS\\Context\\Configuration\\FootballTeamConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAMwBUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:48:43.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PlayersConfiguration.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\Context\\Configuration\\PlayersConfiguration.cs",
+              "RelativeDocumentMoniker": "FootballClubIS\\Context\\Configuration\\PlayersConfiguration.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\Context\\Configuration\\PlayersConfiguration.cs",
+              "RelativeToolTip": "FootballClubIS\\Context\\Configuration\\PlayersConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:43:56.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TypeTeamConfiguration.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\Context\\Configuration\\TypeTeamConfiguration.cs",
+              "RelativeDocumentMoniker": "FootballClubIS\\Context\\Configuration\\TypeTeamConfiguration.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\Context\\Configuration\\TypeTeamConfiguration.cs",
+              "RelativeToolTip": "FootballClubIS\\Context\\Configuration\\TypeTeamConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:51:55.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "FootballClubIS\\Repositories\\IRepository.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\FootballClubIS\\FootballClubIS\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "FootballClubIS\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T18:53:37.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "NavigationService.cs",
+              "DocumentMoniker": "C:\\Users\\doski\\AppData\\Local\\Temp\\.vsdbgsrc\\7c39dede8d7ebdfdbdef9df41f0b1ca336835c2b40460aff1aa804187805538a\\NavigationService.cs",
+              "ToolTip": "C:\\Users\\doski\\AppData\\Local\\Temp\\.vsdbgsrc\\7c39dede8d7ebdfdbdef9df41f0b1ca336835c2b40460aff1aa804187805538a\\NavigationService.cs",
+              "ViewState": "AgIAACkEAAAAAAAAAAAtwEAEAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T11:42:30.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

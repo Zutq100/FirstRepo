@@ -1,0 +1,15 @@
+D:\Programming\FirstRepo\SandboxOne\bin\Debug\net8.0\SandboxOne.exe
+D:\Programming\FirstRepo\SandboxOne\bin\Debug\net8.0\SandboxOne.deps.json
+D:\Programming\FirstRepo\SandboxOne\bin\Debug\net8.0\SandboxOne.runtimeconfig.json
+D:\Programming\FirstRepo\SandboxOne\bin\Debug\net8.0\SandboxOne.dll
+D:\Programming\FirstRepo\SandboxOne\bin\Debug\net8.0\SandboxOne.pdb
+D:\Programming\FirstRepo\SandboxOne\obj\Debug\net8.0\SandboxOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\FirstRepo\SandboxOne\obj\Debug\net8.0\SandboxOne.AssemblyInfoInputs.cache
+D:\Programming\FirstRepo\SandboxOne\obj\Debug\net8.0\SandboxOne.AssemblyInfo.cs
+D:\Programming\FirstRepo\SandboxOne\obj\Debug\net8.0\SandboxOne.csproj.CoreCompileInputs.cache
+D:\Programming\FirstRepo\SandboxOne\obj\Debug\net8.0\SandboxOne.sourcelink.json
+D:\Programming\FirstRepo\SandboxOne\obj\Debug\net8.0\SandboxOne.dll
+D:\Programming\FirstRepo\SandboxOne\obj\Debug\net8.0\refint\SandboxOne.dll
+D:\Programming\FirstRepo\SandboxOne\obj\Debug\net8.0\SandboxOne.pdb
+D:\Programming\FirstRepo\SandboxOne\obj\Debug\net8.0\SandboxOne.genruntimeconfig.cache
+D:\Programming\FirstRepo\SandboxOne\obj\Debug\net8.0\ref\SandboxOne.dll
