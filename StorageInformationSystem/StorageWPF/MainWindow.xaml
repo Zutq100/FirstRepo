@@ -21,7 +21,7 @@
                            FontWeight="Bold"
                            VerticalAlignment="Center"/>
 
-                <Button Content="Items" 
+                <Button Content="Предметы" 
                         Command="{Binding NavigateToItemsCommand}"
                         Style="{StaticResource NavButtonStyle}"
                         Margin="20,0,0,0"/>
@@ -45,7 +45,7 @@
 
         <StatusBar Grid.Row="2">
             <StatusBarItem>
-                <TextBlock Text="Ready"/>
+                <TextBlock Text="Готов"/>
             </StatusBarItem>
             <StatusBarItem HorizontalAlignment="Right">
                 <TextBlock Text="{Binding CurrentDateTime, StringFormat='{}{0:yyyy-MM-dd HH:mm}'}"/>

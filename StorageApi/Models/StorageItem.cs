@@ -8,7 +8,7 @@
         public string ArticleNumber { get; set; } = null!;
         public decimal Price { get; set; }
         public int Quantity { get; set; }
-        public string Unit { get; set; } = "pcs";
+        public string Unit { get; set; } = "штук";
         public int? MinimumStockLevel { get; set; }
         public int? MaximumStockLevel { get; set; }
         public string? Location { get; set; }

@@ -29,23 +29,19 @@ namespace StorageWPF
 
         private void ConfigureServices(IServiceCollection services)
         {
-            // Регистрация HttpClient
             services.AddHttpClient<ApiClient>(client =>
             {
                 client.BaseAddress = new Uri("https://localhost:5001/");
                 client.DefaultRequestHeaders.Add("Accept", "application/json");
             });
 
-            // Регистрация сервисов
             services.AddSingleton<ApiClient>();
 
-            // Регистрация ViewModels
             services.AddTransient<MainViewModel>();
             services.AddTransient<ItemsViewModel>();
             services.AddTransient<ItemDetailViewModel>();
             services.AddTransient<ItemEditViewModel>();
 
-            // Регистрация Views
             services.AddSingleton<MainWindow>();
             services.AddTransient<ItemsView>();
             services.AddTransient<ItemDetailsView>();

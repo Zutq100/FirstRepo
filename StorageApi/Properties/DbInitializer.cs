@@ -22,7 +22,7 @@ namespace StorageApi.Properties
                 items.Add(new StorageItem
                 {
                     Name = $"Товар {i}",
-                    ArticleNumber = $"ART-{1000 + i}",
+                    ArticleNumber = $"ART-{100 + i}",
                     Price = (decimal)(random.NextDouble() * 1000),
                     Quantity = random.Next(0, 500),
                     Unit = units[random.Next(units.Length)],

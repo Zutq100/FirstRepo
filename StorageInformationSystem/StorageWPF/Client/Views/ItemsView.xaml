@@ -14,18 +14,18 @@
 
         <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="5">
             <TextBox Width="200" Margin="5" Text="{Binding SearchText, UpdateSourceTrigger=PropertyChanged}"/>
-            <Button Content="Refresh" Margin="5" Command="{Binding LoadItemsCommand}"/>
-            <Button Content="Add New" Margin="5" Command="{Binding AddItemCommand}"/>
+            <Button Content="Обновить" Margin="5" Command="{Binding LoadItemsCommand}"/>
+            <Button Content="Добавить" Margin="5" Command="{Binding AddItemCommand}"/>
         </StackPanel>
 
         <DataGrid Grid.Row="1" ItemsSource="{Binding Items}" AutoGenerateColumns="False" IsReadOnly="True"
                   SelectionMode="Single" Margin="5">
             <DataGrid.Columns>
                 <DataGridTextColumn Header="ID" Binding="{Binding Id}" Width="Auto"/>
-                <DataGridTextColumn Header="Name" Binding="{Binding Name}" Width="*"/>
-                <DataGridTextColumn Header="Article" Binding="{Binding ArticleNumber}" Width="Auto"/>
-                <DataGridTextColumn Header="Quantity" Binding="{Binding Quantity}" Width="Auto"/>
-                <DataGridTextColumn Header="Price" Binding="{Binding Price, StringFormat=C}" Width="Auto"/>
+                <DataGridTextColumn Header="Название" Binding="{Binding Name}" Width="*"/>
+                <DataGridTextColumn Header="Артикль" Binding="{Binding ArticleNumber}" Width="Auto"/>
+                <DataGridTextColumn Header="Количество" Binding="{Binding Quantity}" Width="Auto"/>
+                <DataGridTextColumn Header="Цена" Binding="{Binding Price, StringFormat=C}" Width="Auto"/>
                 <DataGridTemplateColumn Width="Auto">
                     <DataGridTemplateColumn.CellTemplate>
                         <DataTemplate>
