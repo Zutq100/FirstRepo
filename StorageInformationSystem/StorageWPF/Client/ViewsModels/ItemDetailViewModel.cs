@@ -22,7 +22,7 @@ namespace StorageWPF.Client.ViewsModels
             EditItemCommand = new RelayCommand(_ => EditItem());
             BackCommand = new RelayCommand(_ => BackToList());
 
-            _ = LoadMovements(); // Загружаем движения при создании
+            _ = LoadMovements();
         }
 
         public StorageItem Item

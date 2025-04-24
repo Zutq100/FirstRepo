@@ -3,6 +3,51 @@
   "WorkspaceRootPath": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|d:\\programming\\firstrepo\\storageinformationsystem\\storagewpf\\client\\viewsmodels\\itemdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|solutionrelative:storagewpf\\client\\viewsmodels\\itemdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|d:\\programming\\firstrepo\\storageinformationsystem\\storagewpf\\client\\views\\itemdetailsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|solutionrelative:storagewpf\\client\\views\\itemdetailsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|d:\\programming\\firstrepo\\storageinformationsystem\\storagewpf\\client\\views\\itemeditview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|solutionrelative:storagewpf\\client\\views\\itemeditview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|d:\\programming\\firstrepo\\storageinformationsystem\\storagewpf\\client\\views\\itemsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|solutionrelative:storagewpf\\client\\views\\itemsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|d:\\programming\\firstrepo\\storageinformationsystem\\storagewpf\\client\\services\\apiclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|solutionrelative:storagewpf\\client\\services\\apiclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|d:\\programming\\firstrepo\\storageinformationsystem\\storagewpf\\client\\models\\storagemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|solutionrelative:storagewpf\\client\\models\\storagemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|d:\\programming\\firstrepo\\storageinformationsystem\\storagewpf\\client\\models\\storageitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|solutionrelative:storagewpf\\client\\models\\storageitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AFC789-C146-4261-A929-AD14B880BCB3}|..\\StorageApi\\StorageApi.csproj|d:\\programming\\firstrepo\\storageapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AFC789-C146-4261-A929-AD14B880BCB3}|..\\StorageApi\\StorageApi.csproj|d:\\programming\\firstrepo\\storageapi\\dto\\reportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AFC789-C146-4261-A929-AD14B880BCB3}|..\\StorageApi\\StorageApi.csproj|d:\\programming\\firstrepo\\storageapi\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|d:\\programming\\firstrepo\\storageinformationsystem\\storagewpf\\client\\viewsmodels\\itemeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|solutionrelative:storagewpf\\client\\viewsmodels\\itemeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|d:\\programming\\firstrepo\\storageinformationsystem\\storagewpf\\client\\viewsmodels\\itemsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|solutionrelative:storagewpf\\client\\viewsmodels\\itemsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|d:\\programming\\firstrepo\\storageinformationsystem\\storagewpf\\client\\viewsmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|solutionrelative:storagewpf\\client\\viewsmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,24 +60,8 @@
       "RelativeMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|solutionrelative:storagewpf\\client\\viewsmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|d:\\programming\\firstrepo\\storageinformationsystem\\storagewpf\\client\\viewsmodels\\itemsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|solutionrelative:storagewpf\\client\\viewsmodels\\itemsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|d:\\programming\\firstrepo\\storageinformationsystem\\storagewpf\\client\\viewsmodels\\itemeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|solutionrelative:storagewpf\\client\\viewsmodels\\itemeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|d:\\programming\\firstrepo\\storageinformationsystem\\storagewpf\\client\\viewsmodels\\itemdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|solutionrelative:storagewpf\\client\\viewsmodels\\itemdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|d:\\programming\\firstrepo\\storageinformationsystem\\storagewpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|solutionrelative:storagewpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|d:\\programming\\firstrepo\\storageinformationsystem\\storagewpf\\client\\views\\itemdetailsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|solutionrelative:storagewpf\\client\\views\\itemdetailsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|d:\\programming\\firstrepo\\storageinformationsystem\\storagewpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -52,28 +81,8 @@
       "AbsoluteMoniker": "D:0:0:{21AFC789-C146-4261-A929-AD14B880BCB3}|..\\StorageApi\\StorageApi.csproj|d:\\programming\\firstrepo\\storageapi\\properties\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|d:\\programming\\firstrepo\\storageinformationsystem\\storagewpf\\client\\views\\itemsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|solutionrelative:storagewpf\\client\\views\\itemsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|d:\\programming\\firstrepo\\storageinformationsystem\\storagewpf\\client\\views\\itemeditview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|solutionrelative:storagewpf\\client\\views\\itemeditview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|d:\\programming\\firstrepo\\storageinformationsystem\\storagewpf\\client\\services\\apiclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|solutionrelative:storagewpf\\client\\services\\apiclients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|d:\\programming\\firstrepo\\storageinformationsystem\\storagewpf\\client\\models\\storageitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|solutionrelative:storagewpf\\client\\models\\storageitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|d:\\programming\\firstrepo\\storageinformationsystem\\storagewpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|solutionrelative:storagewpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|d:\\programming\\firstrepo\\storageinformationsystem\\storagewpf\\client\\models\\storagemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|solutionrelative:storagewpf\\client\\models\\storagemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21AFC789-C146-4261-A929-AD14B880BCB3}|..\\StorageApi\\StorageApi.csproj|d:\\programming\\firstrepo\\storageapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
@@ -83,9 +92,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{21AFC789-C146-4261-A929-AD14B880BCB3}|..\\StorageApi\\StorageApi.csproj|d:\\programming\\firstrepo\\storageapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21AFC789-C146-4261-A929-AD14B880BCB3}|..\\StorageApi\\StorageApi.csproj|d:\\programming\\firstrepo\\storageapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21AFC789-C146-4261-A929-AD14B880BCB3}|..\\StorageApi\\StorageApi.csproj|d:\\programming\\firstrepo\\storageapi\\properties\\mediatr\\request\\getinventoryreportquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -100,16 +106,10 @@
       "AbsoluteMoniker": "D:0:0:{21AFC789-C146-4261-A929-AD14B880BCB3}|..\\StorageApi\\StorageApi.csproj|d:\\programming\\firstrepo\\storageapi\\controllers\\storageitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21AFC789-C146-4261-A929-AD14B880BCB3}|..\\StorageApi\\StorageApi.csproj|d:\\programming\\firstrepo\\storageapi\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{21AFC789-C146-4261-A929-AD14B880BCB3}|..\\StorageApi\\StorageApi.csproj|d:\\programming\\firstrepo\\storageapi\\dto\\storagemovementdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21AFC789-C146-4261-A929-AD14B880BCB3}|..\\StorageApi\\StorageApi.csproj|d:\\programming\\firstrepo\\storageapi\\dto\\storageitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21AFC789-C146-4261-A929-AD14B880BCB3}|..\\StorageApi\\StorageApi.csproj|d:\\programming\\firstrepo\\storageapi\\dto\\reportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{047901B8-FAB4-4AD1-B4DE-069F1AE14C10}|StorageWPF\\StorageWPF.csproj|d:\\programming\\firstrepo\\storageinformationsystem\\storagewpf\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -148,11 +148,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 358,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\App.xaml",
               "RelativeDocumentMoniker": "StorageWPF\\App.xaml",
@@ -165,354 +165,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ItemDetailsView.xaml",
-              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\Views\\ItemDetailsView.xaml",
-              "RelativeDocumentMoniker": "StorageWPF\\Client\\Views\\ItemDetailsView.xaml",
-              "ToolTip": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\Views\\ItemDetailsView.xaml",
-              "RelativeToolTip": "StorageWPF\\Client\\Views\\ItemDetailsView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-08T16:40:43.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "StorageWPF\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\MainWindow.xaml.cs",
-              "RelativeToolTip": "StorageWPF\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T16:22:08.637Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "ItemDetailViewModel.cs",
               "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\ViewsModels\\ItemDetailViewModel.cs",
               "RelativeDocumentMoniker": "StorageWPF\\Client\\ViewsModels\\ItemDetailViewModel.cs",
               "ToolTip": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\ViewsModels\\ItemDetailViewModel.cs",
               "RelativeToolTip": "StorageWPF\\Client\\ViewsModels\\ItemDetailViewModel.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowBgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T16:40:54.521Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ItemEditViewModel.cs",
-              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\ViewsModels\\ItemEditViewModel.cs",
-              "RelativeDocumentMoniker": "StorageWPF\\Client\\ViewsModels\\ItemEditViewModel.cs",
-              "ToolTip": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\ViewsModels\\ItemEditViewModel.cs",
-              "RelativeToolTip": "StorageWPF\\Client\\ViewsModels\\ItemEditViewModel.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAA4wDwAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T16:40:55.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ItemsViewModel.cs",
-              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\ViewsModels\\ItemsViewModel.cs",
-              "RelativeDocumentMoniker": "StorageWPF\\Client\\ViewsModels\\ItemsViewModel.cs",
-              "ToolTip": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\ViewsModels\\ItemsViewModel.cs",
-              "RelativeToolTip": "StorageWPF\\Client\\ViewsModels\\ItemsViewModel.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAYwEkAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T16:40:56.724Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\ViewsModels\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "StorageWPF\\Client\\ViewsModels\\MainViewModel.cs",
-              "ToolTip": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\ViewsModels\\MainViewModel.cs",
-              "RelativeToolTip": "StorageWPF\\Client\\ViewsModels\\MainViewModel.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T16:40:59.652Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RelayCommand.cs",
-              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\ViewsModels\\RelayCommand.cs",
-              "RelativeDocumentMoniker": "StorageWPF\\Client\\ViewsModels\\RelayCommand.cs",
-              "ToolTip": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\ViewsModels\\RelayCommand.cs",
-              "RelativeToolTip": "StorageWPF\\Client\\ViewsModels\\RelayCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T16:40:58.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ViewModelBase.cs",
-              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\ViewsModels\\ViewModelBase.cs",
-              "RelativeDocumentMoniker": "StorageWPF\\Client\\ViewsModels\\ViewModelBase.cs",
-              "ToolTip": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\ViewsModels\\ViewModelBase.cs",
-              "RelativeToolTip": "StorageWPF\\Client\\ViewsModels\\ViewModelBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T21:02:11.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "StorageWPF\\MainWindow.xaml",
-              "ToolTip": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\MainWindow.xaml",
-              "RelativeToolTip": "StorageWPF\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-08T16:21:55.493Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\App.xaml.cs",
-              "RelativeDocumentMoniker": "StorageWPF\\App.xaml.cs",
-              "ToolTip": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\App.xaml.cs",
-              "RelativeToolTip": "StorageWPF\\App.xaml.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAADwvxoAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T16:41:22.895Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "StorageItem.cs",
-              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageApi\\Models\\StorageItem.cs",
-              "RelativeDocumentMoniker": "..\\StorageApi\\Models\\StorageItem.cs",
-              "ToolTip": "D:\\Programming\\FirstRepo\\StorageApi\\Models\\StorageItem.cs",
-              "RelativeToolTip": "..\\StorageApi\\Models\\StorageItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T09:08:11.402Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "StorageMovement.cs",
-              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageApi\\Models\\StorageMovement.cs",
-              "RelativeDocumentMoniker": "..\\StorageApi\\Models\\StorageMovement.cs",
-              "ToolTip": "D:\\Programming\\FirstRepo\\StorageApi\\Models\\StorageMovement.cs",
-              "RelativeToolTip": "..\\StorageApi\\Models\\StorageMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T09:08:26.502Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageApi\\Properties\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "..\\StorageApi\\Properties\\DbInitializer.cs",
-              "ToolTip": "D:\\Programming\\FirstRepo\\StorageApi\\Properties\\DbInitializer.cs",
-              "RelativeToolTip": "..\\StorageApi\\Properties\\DbInitializer.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBgAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T16:57:26.28Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ItemEditView.xaml",
-              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\Views\\ItemEditView.xaml",
-              "RelativeDocumentMoniker": "StorageWPF\\Client\\Views\\ItemEditView.xaml",
-              "ToolTip": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\Views\\ItemEditView.xaml",
-              "RelativeToolTip": "StorageWPF\\Client\\Views\\ItemEditView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-17T20:59:25.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ItemsView.xaml",
-              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\Views\\ItemsView.xaml",
-              "RelativeDocumentMoniker": "StorageWPF\\Client\\Views\\ItemsView.xaml",
-              "ToolTip": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\Views\\ItemsView.xaml",
-              "RelativeToolTip": "StorageWPF\\Client\\Views\\ItemsView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-17T20:59:22.749Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ApiClients.cs",
-              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\Services\\ApiClients.cs",
-              "RelativeDocumentMoniker": "StorageWPF\\Client\\Services\\ApiClients.cs",
-              "ToolTip": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\Services\\ApiClients.cs",
-              "RelativeToolTip": "StorageWPF\\Client\\Services\\ApiClients.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAIwDUAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T16:37:27.375Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "StorageMovement.cs",
-              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\Models\\StorageMovement.cs",
-              "RelativeDocumentMoniker": "StorageWPF\\Client\\Models\\StorageMovement.cs",
-              "ToolTip": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\Models\\StorageMovement.cs",
-              "RelativeToolTip": "StorageWPF\\Client\\Models\\StorageMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T09:12:12.961Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "StorageItem.cs",
-              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\Models\\StorageItem.cs",
-              "RelativeDocumentMoniker": "StorageWPF\\Client\\Models\\StorageItem.cs",
-              "ToolTip": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\Models\\StorageItem.cs",
-              "RelativeToolTip": "StorageWPF\\Client\\Models\\StorageItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T09:12:08.531Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageApi\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "..\\StorageApi\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Programming\\FirstRepo\\StorageApi\\Properties\\launchSettings.json",
-              "RelativeToolTip": "..\\StorageApi\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-08T16:36:42.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageApi\\Properties\\EFCore\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "..\\StorageApi\\Properties\\EFCore\\AppDbContext.cs",
-              "ToolTip": "D:\\Programming\\FirstRepo\\StorageApi\\Properties\\EFCore\\AppDbContext.cs",
-              "RelativeToolTip": "..\\StorageApi\\Properties\\EFCore\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T17:30:44.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageApi\\appsettings.json",
-              "RelativeDocumentMoniker": "..\\StorageApi\\appsettings.json",
-              "ToolTip": "D:\\Programming\\FirstRepo\\StorageApi\\appsettings.json",
-              "RelativeToolTip": "..\\StorageApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-08T16:36:38.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageApi\\Program.cs",
-              "RelativeDocumentMoniker": "..\\StorageApi\\Program.cs",
-              "ToolTip": "D:\\Programming\\FirstRepo\\StorageApi\\Program.cs",
-              "RelativeToolTip": "..\\StorageApi\\Program.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADsAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T16:36:31.805Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ReportsController.cs",
-              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageApi\\Controllers\\ReportsController.cs",
-              "RelativeDocumentMoniker": "..\\StorageApi\\Controllers\\ReportsController.cs",
-              "ToolTip": "D:\\Programming\\FirstRepo\\StorageApi\\Controllers\\ReportsController.cs",
-              "RelativeToolTip": "..\\StorageApi\\Controllers\\ReportsController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T17:07:14.401Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "StorageMovementDTO.cs",
-              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageApi\\DTO\\StorageMovementDTO.cs",
-              "RelativeDocumentMoniker": "..\\StorageApi\\DTO\\StorageMovementDTO.cs",
-              "ToolTip": "D:\\Programming\\FirstRepo\\StorageApi\\DTO\\StorageMovementDTO.cs",
-              "RelativeToolTip": "..\\StorageApi\\DTO\\StorageMovementDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T09:08:24.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "CreateStorageItemCommandHandler.cs",
-              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageApi\\Properties\\Mediatr\\Handler\\CreateStorageItemCommandHandler.cs",
-              "RelativeDocumentMoniker": "..\\StorageApi\\Properties\\Mediatr\\Handler\\CreateStorageItemCommandHandler.cs",
-              "ToolTip": "D:\\Programming\\FirstRepo\\StorageApi\\Properties\\Mediatr\\Handler\\CreateStorageItemCommandHandler.cs",
-              "RelativeToolTip": "..\\StorageApi\\Properties\\Mediatr\\Handler\\CreateStorageItemCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T10:36:14.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "GetInventoryReportQuery.cs",
-              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageApi\\Properties\\Mediatr\\Request\\GetInventoryReportQuery.cs",
-              "RelativeDocumentMoniker": "..\\StorageApi\\Properties\\Mediatr\\Request\\GetInventoryReportQuery.cs",
-              "ToolTip": "D:\\Programming\\FirstRepo\\StorageApi\\Properties\\Mediatr\\Request\\GetInventoryReportQuery.cs",
-              "RelativeToolTip": "..\\StorageApi\\Properties\\Mediatr\\Request\\GetInventoryReportQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T10:36:21.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "StorageItemDTO.cs",
-              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageApi\\DTO\\StorageItemDTO.cs",
-              "RelativeDocumentMoniker": "..\\StorageApi\\DTO\\StorageItemDTO.cs",
-              "ToolTip": "D:\\Programming\\FirstRepo\\StorageApi\\DTO\\StorageItemDTO.cs",
-              "RelativeToolTip": "..\\StorageApi\\DTO\\StorageItemDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T09:08:19.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
               "Title": "ReportDTO.cs",
               "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageApi\\DTO\\ReportDTO.cs",
               "RelativeDocumentMoniker": "..\\StorageApi\\DTO\\ReportDTO.cs",
@@ -525,7 +191,327 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageApi\\Program.cs",
+              "RelativeDocumentMoniker": "..\\StorageApi\\Program.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\StorageApi\\Program.cs",
+              "RelativeToolTip": "..\\StorageApi\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:36:31.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StorageItem.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\Models\\StorageItem.cs",
+              "RelativeDocumentMoniker": "StorageWPF\\Client\\Models\\StorageItem.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\Models\\StorageItem.cs",
+              "RelativeToolTip": "StorageWPF\\Client\\Models\\StorageItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:12:08.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StorageMovement.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\Models\\StorageMovement.cs",
+              "RelativeDocumentMoniker": "StorageWPF\\Client\\Models\\StorageMovement.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\Models\\StorageMovement.cs",
+              "RelativeToolTip": "StorageWPF\\Client\\Models\\StorageMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:12:12.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiClients.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\Services\\ApiClients.cs",
+              "RelativeDocumentMoniker": "StorageWPF\\Client\\Services\\ApiClients.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\Services\\ApiClients.cs",
+              "RelativeToolTip": "StorageWPF\\Client\\Services\\ApiClients.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAADwvzAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:37:27.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemsView.xaml",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\Views\\ItemsView.xaml",
+              "RelativeDocumentMoniker": "StorageWPF\\Client\\Views\\ItemsView.xaml",
+              "ToolTip": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\Views\\ItemsView.xaml",
+              "RelativeToolTip": "StorageWPF\\Client\\Views\\ItemsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-17T20:59:22.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemEditView.xaml",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\Views\\ItemEditView.xaml",
+              "RelativeDocumentMoniker": "StorageWPF\\Client\\Views\\ItemEditView.xaml",
+              "ToolTip": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\Views\\ItemEditView.xaml",
+              "RelativeToolTip": "StorageWPF\\Client\\Views\\ItemEditView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-17T20:59:25.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemDetailsView.xaml",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\Views\\ItemDetailsView.xaml",
+              "RelativeDocumentMoniker": "StorageWPF\\Client\\Views\\ItemDetailsView.xaml",
+              "ToolTip": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\Views\\ItemDetailsView.xaml",
+              "RelativeToolTip": "StorageWPF\\Client\\Views\\ItemDetailsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-08T16:40:43.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageApi\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "..\\StorageApi\\Controllers\\ReportsController.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\StorageApi\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "..\\StorageApi\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:07:14.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ItemEditViewModel.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\ViewsModels\\ItemEditViewModel.cs",
+              "RelativeDocumentMoniker": "StorageWPF\\Client\\ViewsModels\\ItemEditViewModel.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\ViewsModels\\ItemEditViewModel.cs",
+              "RelativeToolTip": "StorageWPF\\Client\\ViewsModels\\ItemEditViewModel.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:40:55.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ItemsViewModel.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\ViewsModels\\ItemsViewModel.cs",
+              "RelativeDocumentMoniker": "StorageWPF\\Client\\ViewsModels\\ItemsViewModel.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\ViewsModels\\ItemsViewModel.cs",
+              "RelativeToolTip": "StorageWPF\\Client\\ViewsModels\\ItemsViewModel.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAYwEkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:40:56.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\ViewsModels\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "StorageWPF\\Client\\ViewsModels\\RelayCommand.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\ViewsModels\\RelayCommand.cs",
+              "RelativeToolTip": "StorageWPF\\Client\\ViewsModels\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:40:58.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\ViewsModels\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "StorageWPF\\Client\\ViewsModels\\ViewModelBase.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\ViewsModels\\ViewModelBase.cs",
+              "RelativeToolTip": "StorageWPF\\Client\\ViewsModels\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T21:02:11.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\ViewsModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "StorageWPF\\Client\\ViewsModels\\MainViewModel.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\Client\\ViewsModels\\MainViewModel.cs",
+              "RelativeToolTip": "StorageWPF\\Client\\ViewsModels\\MainViewModel.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:40:59.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "StorageWPF\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "StorageWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:22:08.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "StorageWPF\\MainWindow.xaml",
+              "ToolTip": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\MainWindow.xaml",
+              "RelativeToolTip": "StorageWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-08T16:21:55.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "StorageWPF\\App.xaml.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\App.xaml.cs",
+              "RelativeToolTip": "StorageWPF\\App.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvxoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:41:22.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StorageItem.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageApi\\Models\\StorageItem.cs",
+              "RelativeDocumentMoniker": "..\\StorageApi\\Models\\StorageItem.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\StorageApi\\Models\\StorageItem.cs",
+              "RelativeToolTip": "..\\StorageApi\\Models\\StorageItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:08:11.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StorageMovement.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageApi\\Models\\StorageMovement.cs",
+              "RelativeDocumentMoniker": "..\\StorageApi\\Models\\StorageMovement.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\StorageApi\\Models\\StorageMovement.cs",
+              "RelativeToolTip": "..\\StorageApi\\Models\\StorageMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:08:26.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageApi\\Properties\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "..\\StorageApi\\Properties\\DbInitializer.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\StorageApi\\Properties\\DbInitializer.cs",
+              "RelativeToolTip": "..\\StorageApi\\Properties\\DbInitializer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T16:57:26.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\StorageApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Programming\\FirstRepo\\StorageApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\StorageApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T16:36:42.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageApi\\Properties\\EFCore\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\StorageApi\\Properties\\EFCore\\AppDbContext.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\StorageApi\\Properties\\EFCore\\AppDbContext.cs",
+              "RelativeToolTip": "..\\StorageApi\\Properties\\EFCore\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:30:44.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageApi\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\StorageApi\\appsettings.json",
+              "ToolTip": "D:\\Programming\\FirstRepo\\StorageApi\\appsettings.json",
+              "RelativeToolTip": "..\\StorageApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T16:36:38.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StorageMovementDTO.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageApi\\DTO\\StorageMovementDTO.cs",
+              "RelativeDocumentMoniker": "..\\StorageApi\\DTO\\StorageMovementDTO.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\StorageApi\\DTO\\StorageMovementDTO.cs",
+              "RelativeToolTip": "..\\StorageApi\\DTO\\StorageMovementDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:08:24.649Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 26,
+              "Title": "CreateStorageItemCommandHandler.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageApi\\Properties\\Mediatr\\Handler\\CreateStorageItemCommandHandler.cs",
+              "RelativeDocumentMoniker": "..\\StorageApi\\Properties\\Mediatr\\Handler\\CreateStorageItemCommandHandler.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\StorageApi\\Properties\\Mediatr\\Handler\\CreateStorageItemCommandHandler.cs",
+              "RelativeToolTip": "..\\StorageApi\\Properties\\Mediatr\\Handler\\CreateStorageItemCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T10:36:14.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetInventoryReportQuery.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageApi\\Properties\\Mediatr\\Request\\GetInventoryReportQuery.cs",
+              "RelativeDocumentMoniker": "..\\StorageApi\\Properties\\Mediatr\\Request\\GetInventoryReportQuery.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\StorageApi\\Properties\\Mediatr\\Request\\GetInventoryReportQuery.cs",
+              "RelativeToolTip": "..\\StorageApi\\Properties\\Mediatr\\Request\\GetInventoryReportQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T10:36:21.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StorageItemDTO.cs",
+              "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageApi\\DTO\\StorageItemDTO.cs",
+              "RelativeDocumentMoniker": "..\\StorageApi\\DTO\\StorageItemDTO.cs",
+              "ToolTip": "D:\\Programming\\FirstRepo\\StorageApi\\DTO\\StorageItemDTO.cs",
+              "RelativeToolTip": "..\\StorageApi\\DTO\\StorageItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:08:19.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "StorageItemsController.cs",
               "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageApi\\Controllers\\StorageItemsController.cs",
               "RelativeDocumentMoniker": "..\\StorageApi\\Controllers\\StorageItemsController.cs",
@@ -533,12 +519,11 @@
               "RelativeToolTip": "..\\StorageApi\\Controllers\\StorageItemsController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T17:07:17.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T17:07:17.836Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "StorageProfile.cs",
               "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageApi\\Properties\\Mapping\\StorageProfile.cs",
               "RelativeDocumentMoniker": "..\\StorageApi\\Properties\\Mapping\\StorageProfile.cs",
@@ -546,8 +531,7 @@
               "RelativeToolTip": "..\\StorageApi\\Properties\\Mapping\\StorageProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T16:53:35.065Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T16:53:35.065Z"
             },
             {
               "$type": "Document",
@@ -559,8 +543,7 @@
               "RelativeToolTip": "StorageWPF\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T21:02:47.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T21:02:47.852Z"
             },
             {
               "$type": "Document",
@@ -572,8 +555,7 @@
               "RelativeToolTip": "StorageWPF\\Client\\Views\\ItemEditView.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T09:12:49.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-10T09:12:49.467Z"
             },
             {
               "$type": "Document",
@@ -585,21 +567,19 @@
               "RelativeToolTip": "StorageWPF\\Client\\Views\\ItemsView.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T09:12:51.175Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-10T09:12:51.175Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 34,
-              "Title": "StorageWPF",
+              "Title": "StorageWPF.csproj",
               "DocumentMoniker": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\StorageWPF.csproj",
               "RelativeDocumentMoniker": "StorageWPF\\StorageWPF.csproj",
               "ToolTip": "D:\\Programming\\FirstRepo\\StorageInformationSystem\\StorageWPF\\StorageWPF.csproj",
               "RelativeToolTip": "StorageWPF\\StorageWPF.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-23T10:31:54.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T10:31:54.28Z"
             },
             {
               "$type": "Document",

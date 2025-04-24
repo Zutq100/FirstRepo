@@ -30,13 +30,13 @@
                     <DataGridTemplateColumn.CellTemplate>
                         <DataTemplate>
                             <StackPanel Orientation="Horizontal">
-                                <Button Content="View" Margin="2" 
+                                <Button Content="Просмотреть" Margin="2" 
                         Command="{Binding DataContext.ViewDetailsCommand, RelativeSource={RelativeSource AncestorType=DataGrid}}"
                         CommandParameter="{Binding}"/>
-                                <Button Content="Edit" Margin="2" 
+                                <Button Content="Редактировать" Margin="2" 
                         Command="{Binding DataContext.EditItemCommand, RelativeSource={RelativeSource AncestorType=DataGrid}}"
                         CommandParameter="{Binding}"/>
-                                <Button Content="Delete" Margin="2" 
+                                <Button Content="Удалить" Margin="2" 
                         Command="{Binding DataContext.DeleteItemCommand, RelativeSource={RelativeSource AncestorType=DataGrid}}"
                         CommandParameter="{Binding}"/>
                             </StackPanel>

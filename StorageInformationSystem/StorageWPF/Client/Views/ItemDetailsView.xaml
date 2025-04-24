@@ -69,7 +69,6 @@
             </ScrollViewer>
         </Border>
 
-        <!-- Движения товара -->
         <GroupBox Grid.Row="3" Header="Movement History" Margin="0,10,0,0">
             <DataGrid ItemsSource="{Binding Movements}" AutoGenerateColumns="False" IsReadOnly="True">
                 <DataGrid.Columns>
