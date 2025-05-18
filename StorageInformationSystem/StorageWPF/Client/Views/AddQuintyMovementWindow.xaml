@@ -1,0 +1,59 @@
+﻿<Window x:Class="StorageWPF.Client.Views.AddQuintyMovementWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StorageWPF.Client.Views"
+        mc:Ignorable="d"
+        Title="AddQuintyMovementWindow" Height="450" Width="800">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Поля формы -->
+        <TextBlock Grid.Row="0" Text="Товар:"/>
+        <TextBlock Grid.Row="0" Grid.Column="1" Text="{Binding ItemName}" FontWeight="Bold"/>
+
+        <TextBlock Grid.Row="1" Text="Тип перемещения:"/>
+        <ComboBox Grid.Row="1" Grid.Column="1"
+              ItemsSource="{Binding MovementTypes}"
+              DisplayMemberPath="Value"
+              SelectedValuePath="Key"
+              SelectedValue="{Binding CurrentMovement.Type}" Margin="0,0,-222,17" Grid.RowSpan="2"/>
+
+        <TextBlock Grid.Row="2" Text="Количество:"/>
+        <TextBox Grid.Row="2" Grid.Column="1" 
+             Text="{Binding CurrentMovement.Quantity, UpdateSourceTrigger=PropertyChanged}" Margin="0,0,-222,17" Grid.RowSpan="2"/>
+
+        <TextBlock Grid.Row="3" Text="Источник:"/>
+        <TextBox Grid.Row="3" Grid.Column="1" 
+             Text="{Binding CurrentMovement.Source}" Margin="0,0,-222,16" Grid.RowSpan="2"/>
+
+        <TextBlock Grid.Row="4" Text="Назначение:"/>
+        <TextBox Grid.Row="4" Grid.Column="1" 
+             Text="{Binding CurrentMovement.Destination}" Margin="0,0,-222,192" Grid.RowSpan="2"/>
+
+        <TextBlock Grid.Row="5" Text="Комментарий:"/>
+        <TextBox Grid.Row="5" Grid.Column="1" 
+             Text="{Binding CurrentMovement.Comment}"
+             AcceptsReturn="True" Margin="0,10,-222,10"/>
+
+        <!-- Кнопки -->
+        <StackPanel Grid.Row="6" Orientation="Horizontal" HorizontalAlignment="Right">
+            <Button Content="Сохранить" Command="{Binding SaveCommand}" Width="80" Margin="5"/>
+            <Button Content="Отмена" Click="Cancel_Click" Width="80" Margin="5"/>
+            <Button Content="Удалить" Command="{Binding DeleteCommand}" Width="80" Margin="5"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -82,3 +82,4 @@ D:\Programming\FirstRepo\StorageApi\obj\Debug\net8.0\refint\StorageApi.dll
 D:\Programming\FirstRepo\StorageApi\obj\Debug\net8.0\StorageApi.pdb
 D:\Programming\FirstRepo\StorageApi\obj\Debug\net8.0\StorageApi.genruntimeconfig.cache
 D:\Programming\FirstRepo\StorageApi\obj\Debug\net8.0\ref\StorageApi.dll
+D:\Programming\FirstRepo\StorageApi\bin\Debug\net8.0\libman.json

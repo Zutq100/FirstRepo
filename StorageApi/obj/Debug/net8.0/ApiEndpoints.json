@@ -177,6 +177,89 @@
   },
   {
     "ContainingType": "StorageApi.Controllers.StorageMovementsController",
+    "Method": "GetItem",
+    "RelativePath": "api/StorageMovements/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "StorageApi.DTO.StorageMovementDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "StorageApi.Controllers.StorageMovementsController",
+    "Method": "UpdateMovement",
+    "RelativePath": "api/StorageMovements/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "StorageApi.DTO.UpdateStorageMovementDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "StorageApi.DTO.StorageMovementDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "StorageApi.Controllers.StorageMovementsController",
+    "Method": "DeleteMovement",
+    "RelativePath": "api/StorageMovements/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "StorageApi.DTO.StorageMovementDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "StorageApi.Controllers.StorageMovementsController",
     "Method": "GetMovements",
     "RelativePath": "api/StorageMovements/item/{itemId}",
     "HttpMethod": "GET",

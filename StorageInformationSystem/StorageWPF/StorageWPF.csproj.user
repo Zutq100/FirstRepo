@@ -7,6 +7,9 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="Client\Views\AddQuintyMovementWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Client\Views\ItemDetailsView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -18,6 +21,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="Client\Views\AddQuintyMovementWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="Client\Views\ItemDetailsView.xaml">
       <SubType>Designer</SubType>
     </Page>

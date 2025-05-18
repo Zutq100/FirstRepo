@@ -16,7 +16,7 @@ namespace StorageWPF.Client.ViewsModels
             _apiClient = apiClient;
             _mainViewModel = mainViewModel;
             _item = item;
-            _isNewItem = item.Id == 0; // Предполагаем, что новый товар имеет Id = 0
+            _isNewItem = item.Id == 0;
 
             SaveCommand = new RelayCommand(async _ => await SaveItem());
             CancelCommand = new RelayCommand(_ => Cancel());
@@ -44,7 +44,7 @@ namespace StorageWPF.Client.ViewsModels
                 if (_isNewItem)
                 {
                     var createdItem = await _apiClient.CreateItemAsync(Item);
-                    Item = createdItem; // Обновляем Id и другие поля
+                    Item = createdItem;
                     _isNewItem = false;
                 }
                 else
@@ -52,19 +52,16 @@ namespace StorageWPF.Client.ViewsModels
                     await _apiClient.UpdateItemAsync(Item);
                 }
 
-                // Возвращаемся к списку товаров
                 _mainViewModel.CurrentViewModel = new ItemsViewModel(_apiClient, _mainViewModel);
             }
             catch (Exception ex)
             {
-                // Здесь должна быть обработка ошибок (можно показать MessageBox)
                 Console.WriteLine($"Error saving item: {ex.Message}");
             }
         }
 
         private void Cancel()
         {
-            // Возвращаемся к списку товаров без сохранения
             _mainViewModel.CurrentViewModel = new ItemsViewModel(_apiClient, _mainViewModel);
         }
     }

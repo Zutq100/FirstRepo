@@ -34,50 +34,41 @@
                         <RowDefinition Height="Auto"/>
                     </Grid.RowDefinitions>
 
-                    <!-- Name -->
-                    <TextBlock Grid.Row="0" Grid.Column="0" Text="Name:" Margin="5"/>
+                    <TextBlock Grid.Row="0" Grid.Column="0" Text="Название:" Margin="5"/>
                     <TextBox Grid.Row="0" Grid.Column="1" Text="{Binding Item.Name, UpdateSourceTrigger=PropertyChanged}" Margin="5"/>
 
-                    <!-- Article Number -->
-                    <TextBlock Grid.Row="1" Grid.Column="0" Text="Article Number:" Margin="5"/>
+                    <TextBlock Grid.Row="1" Grid.Column="0" Text="Артикль:" Margin="5"/>
                     <TextBox Grid.Row="1" Grid.Column="1" Text="{Binding Item.ArticleNumber, UpdateSourceTrigger=PropertyChanged}" 
                              IsReadOnly="{Binding IsNewItem}" Margin="5"/>
 
-                    <!-- Description -->
-                    <TextBlock Grid.Row="2" Grid.Column="0" Text="Description:" Margin="5"/>
+                    <TextBlock Grid.Row="2" Grid.Column="0" Text="Описание:" Margin="5"/>
                     <TextBox Grid.Row="2" Grid.Column="1" Text="{Binding Item.Description, UpdateSourceTrigger=PropertyChanged}" 
                              AcceptsReturn="True" Height="60" Margin="5"/>
 
-                    <!-- Price -->
-                    <TextBlock Grid.Row="3" Grid.Column="0" Text="Price:" Margin="5"/>
+                    <TextBlock Grid.Row="3" Grid.Column="0" Text="Цена:" Margin="5"/>
                     <TextBox Grid.Row="3" Grid.Column="1" Text="{Binding Item.Price, UpdateSourceTrigger=PropertyChanged}" Margin="5"/>
 
-                    <!-- Quantity -->
-                    <TextBlock Grid.Row="4" Grid.Column="0" Text="Quantity:" Margin="5"/>
+                    <TextBlock Grid.Row="4" Grid.Column="0" Text="Количество:" Margin="5"/>
                     <TextBox Grid.Row="4" Grid.Column="1" Text="{Binding Item.Quantity, UpdateSourceTrigger=PropertyChanged}" Margin="5"/>
 
-                    <!-- Unit -->
-                    <TextBlock Grid.Row="5" Grid.Column="0" Text="Unit:" Margin="5"/>
+                    <TextBlock Grid.Row="5" Grid.Column="0" Text="Единица измерения:" Margin="5"/>
                     <TextBox Grid.Row="5" Grid.Column="1" Text="{Binding Item.Unit, UpdateSourceTrigger=PropertyChanged}" Margin="5"/>
 
-                    <!-- Minimum Stock Level -->
-                    <TextBlock Grid.Row="6" Grid.Column="0" Text="Min Stock:" Margin="5"/>
+                    <TextBlock Grid.Row="6" Grid.Column="0" Text="Минимальный уровень запасов:" Margin="5"/>
                     <TextBox Grid.Row="6" Grid.Column="1" Text="{Binding Item.MinimumStockLevel, UpdateSourceTrigger=PropertyChanged}" Margin="5"/>
 
-                    <!-- Maximum Stock Level -->
-                    <TextBlock Grid.Row="7" Grid.Column="0" Text="Max Stock:" Margin="5"/>
+                    <TextBlock Grid.Row="7" Grid.Column="0" Text="Максимальный уровень запасов:" Margin="5"/>
                     <TextBox Grid.Row="7" Grid.Column="1" Text="{Binding Item.MaximumStockLevel, UpdateSourceTrigger=PropertyChanged}" Margin="5"/>
 
-                    <!-- Location -->
-                    <TextBlock Grid.Row="8" Grid.Column="0" Text="Location:" Margin="5"/>
+                    <TextBlock Grid.Row="8" Grid.Column="0" Text="Место:" Margin="5"/>
                     <TextBox Grid.Row="8" Grid.Column="1" Text="{Binding Item.Location, UpdateSourceTrigger=PropertyChanged}" Margin="5"/>
                 </Grid>
             </StackPanel>
         </ScrollViewer>
 
         <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,10,0,0">
-            <Button Content="Save" Command="{Binding SaveCommand}" Width="80" Margin="5"/>
-            <Button Content="Cancel" Command="{Binding CancelCommand}" Width="80" Margin="5"/>
+            <Button Content="Сохранить" Command="{Binding SaveCommand}" Width="80" Margin="5"/>
+            <Button Content="Отменить" Command="{Binding CancelCommand}" Width="80" Margin="5"/>
         </StackPanel>
     </Grid>
 </UserControl>

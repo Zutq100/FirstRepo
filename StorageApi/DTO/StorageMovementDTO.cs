@@ -20,4 +20,12 @@ namespace StorageApi.DTO
         string? Destination,
         string? Comment,
         int StorageItemId);
+
+    public record UpdateStorageMovementDTO(
+        MovementType Type,
+        int? Quantity,
+        string? Source,
+        string? Destination,
+        string? Comment,
+        int StorageItemId);
 }

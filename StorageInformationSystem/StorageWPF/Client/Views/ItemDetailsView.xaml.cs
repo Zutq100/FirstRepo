@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Microsoft.OpenApi.Extensions;
+using StorageWPF.Client.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -24,5 +26,13 @@ namespace StorageWPF.Client.Views
         {
             InitializeComponent();
         }
+        public Dictionary<MovementType, string> MovementTypes { get; } = new()
+    {
+        { MovementType.Receipt, "Приход" },
+        { MovementType.Consumption, "Расход" },
+        { MovementType.Transfer, "Перемещение" },
+        { MovementType.Adjustment, "Корректировка" }
+    };
+
     }
 }
